@@ -16,12 +16,14 @@ ORDER BY
 SELECT 
     Customer_ID, 
     DATE_TRUNC('quarter', Order_Date)  Quarter, 
-    SUM(Sales)  Quarterly_Spend
+    SUM(Sales)  Quarterly_Spend,
+    region
 FROM 
     superstore
 GROUP BY
     Customer_ID, 
-    DATE_TRUNC('quarter', Order_Date)
+    DATE_TRUNC('quarter', Order_Date),
+    region
 ORDER BY
     Quarterly_Spend DESC;
 

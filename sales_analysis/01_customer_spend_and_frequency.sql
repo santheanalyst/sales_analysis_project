@@ -5,13 +5,14 @@ FROM superstore
 
 SELECT
      Customer_ID,
-     SUM(sales) Total_Spend
+    ROUND (SUM(sales)) Total_Spend
 FROM 
     superstore
 GROUP BY
     Customer_ID
 ORDER BY
     Total_Spend DESC
+LIMIT 10
 
 --  Purchase Frequency per Customer
 
@@ -26,16 +27,6 @@ ORDER BY
     Purchase_Frequency DESC;
 
 -- Average Purchase Value per Customer
-
-SELECT 
-    Customer_ID, 
-    AVG(Sales)  Avg_Purchase_Value
-FROM 
-        superstore
-GROUP BY 
-    Customer_ID
-ORDER BY
-    Avg_Purchase_Value DESC;
 
 --Summary of Customer Spending and Frequency
 
