@@ -1,6 +1,3 @@
-Great! Here's an updated version of the README file for your sales analysis project, including the specific SQL queries you've used and information about the uploaded dataset:
-
----
 
 # Sales Performance Dashboard
 
