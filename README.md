@@ -18,7 +18,6 @@ The questions I aimed to answer through my analysis were:
 - What are the sales trends over time?
 - Which regions are generating the highest sales?
 - What is the average sales value?
-- How are different sales channels performing?
 
 ## Tools I Used
 - **PowerBI**: Used for creating dynamic visualizations and dashboards.
@@ -113,6 +112,8 @@ LIMIT (SELECT COUNT(*) FROM Customer_Summary) / 5;
 ```
 ![alt text](image-1.png)
 
+*The top 20% of customers are the ones with the highest total spend*
+
 
 #### 5. Customer Demographics
 I grouped customers by region and segment.
@@ -129,6 +130,11 @@ GROUP BY
     Segment
 LIMIT 20;
 ```
+![alt text](image-6.png)
+
+*The customer demographics are grouped by region and segment and it is clear from the pie chart that high percentage of customers are from West Region followed by South Region.*
+
+*This was created by me using Power Bi.*
 
 #### 6. Customer Segmentation by Value
 I updated the customer summary to categorize customers into high, medium, and low value based on their total spend and purchase frequency.
@@ -141,6 +147,7 @@ SET
                WHEN Total_Spend BETWEEN 5000 AND 10000 THEN 'Medium Value'
                ELSE 'Low Value'
               END;
+            
 ```
 
 #### 7. Profile Segments
@@ -148,20 +155,28 @@ To profile different customer segments, I calculated the average spend and frequ
 ```sql
 SELECT 
     Segment, 
-    AVG(Total_Spend) AS Avg_Spend, 
-    AVG(Purchase_Frequency) AS Avg_Frequency
+    ROUND(AVG(Total_Spend)) AS Avg_Spend, 
+    ROUND(AVG(Purchase_Frequency)) AS Avg_Frequency
 FROM 
     Customer_Summary
 GROUP BY 
-    Segment;
+    Segment
+ORDER BY
+    Avg_Spend DESC;
+
 ```
+| Segment       | Average Spend ($) | Average Frequency (times per year) |
+| ------------- | ----------------- | ---------------------------------- |
+| High Value    | 13,323            | 21                                 |
+| Medium Value  | 6,671             | 18                                 |
+| Low Value     | 2,080             | 12                                 |
 
 #### 8. Regional Sales Performance
 To understand regional performance, I summed the total sales and counted the number of orders for each region.
 ```sql
 SELECT 
     Region, 
-    SUM(Sales) AS Total_Sales, 
+    ROUND(SUM(Sales)) AS Total_Sales, 
     COUNT(Order_ID) AS Num_Orders
 FROM 
     superstore
@@ -170,6 +185,12 @@ GROUP BY
 ORDER BY 
     Total_Sales DESC;
 ```
+| Region  | Total Sales ($) | Number of Orders |
+| ------- | --------------- | ---------------- |
+| West    | 725,458         | 3,203            |
+| East    | 678,781         | 2,848            |
+| Central | 501,240         | 2,323            |
+| South   | 391,722         | 1,620            |
 
 #### 9. Purchase Trends Over Time
 To analyze purchase trends over time, I aggregated sales data by quarter and region.
@@ -177,7 +198,7 @@ To analyze purchase trends over time, I aggregated sales data by quarter and reg
 SELECT 
     Customer_ID, 
     DATE_TRUNC('quarter', Order_Date) AS Quarter, 
-    SUM(Sales) AS Quarterly_Spend,
+    ROUND(SUM(Sales)) AS Quarterly_Spend,
     region
 FROM 
     superstore
@@ -188,6 +209,8 @@ GROUP BY
 ORDER BY
     Quarterly_Spend DESC;
 ```
+![alt text](image-4.png)
+*Created by me using PowerBI*
 
 #### 10. Product Preferences by Segment
 To determine product preferences by customer segment, I joined the sales data with the customer summary and summed the total sales for each product within each segment.
@@ -195,7 +218,7 @@ To determine product preferences by customer segment, I joined the sales data wi
 SELECT 
     cs.Segment, 
     ss.Product_Name, 
-    SUM(ss.Sales) AS Total_Sales
+    ROUND(SUM(ss.Sales)) AS Total_Sales
 FROM 
     superstore ss
 JOIN 
@@ -206,27 +229,50 @@ GROUP BY
     ss.Product_Name
 ORDER BY 
     cs.Segment, 
-    Total_Sales DESC;
+    Total_Sales DESC
+LIMIT 30;
 ```
+| Segment     | Product Name                                                 | Total Sales ($) |
+|-------------|--------------------------------------------------------------|-----------------|
+| High Value  | Canon imageCLASS 2200 Advanced Copier                        | 50,400          |
+| High Value  | Cisco TelePresence System EX90 Videoconferencing Unit        | 22,638          |
+| High Value  | High Speed Automatic Electric Letter Opener                  | 13,100          |
+| High Value  | GBC Ibimaster 500 Manual ProClick Binding System             | 9,893           |
+| High Value  | Ibico EPK-21 Electric Binding System                         | 9,450           |
+| High Value  | HP Designjet T520 Inkjet Large Format Printer - 24" Color    | 8,750           |
+| High Value  | Lexmark MX611dhe Monochrome Laser Printer                    | 8,160           |
+| High Value  | Apple iPhone 5                                               | 5,459           |
+| High Value  | 3D Systems Cube Printer, 2nd Generation, Magenta             | 5,200           |
+| High Value  | DMI Eclipse Executive Suite Bookcases                        | 4,008   
 
-## Insights
+## Sales Performance Insights
 Based on the data provided, the following insights were derived:
+- **Top Performing Products**: The **Canon imageCLASS 2200 Advanced Copier** 📠, **Cisco TelePresence System EX90** 🎥, and **High Speed Automatic Electric Letter Opener** ✉️ are the top-performing products, significantly driving total sales in the "High Value" segment. 💼
 
-- **Top Performing Products**: Product A, B, and C are the best-sellers, contributing significantly to total sales.
-- **Sales Trends**: There is a noticeable peak in sales during the holiday season, with consistent growth over the year.
-- **Regional Performance**: Region X generates the highest sales, followed by Region Y and Z.
-- **Average Sales Value**: The average transaction value is $123.45, indicating a healthy sales per transaction rate.
-- **Channel Performance**: Online sales channels outperform traditional retail, reflecting a shift towards e-commerce.
+- **Sales Trends**: There is a noticeable increase in quarterly spend across all regions from 2011 to 2014 📅, with the West region showing the most pronounced growth by the final year 📈.
+
+- **Regional Performance**: The West region 🌍 leads in total sales and number of orders, demonstrating the highest regional performance, while the South region 🌴 shows the lowest sales and order volume.
+
+- **Average Sales Value**: The average transaction value is approximately **$229.70** 💵, indicating a healthy sales per transaction rate.
+
+
 
 ## What I Learned
-Through this project, I gained valuable insights into sales performance analysis and the use of PowerBI for creating impactful visualizations. Key takeaways include:
+Through this project, I gained valuable insights into sales performance analysis and the use of PowerBI for creating impactful visualizations. 
 
-- **Data Cleaning and Preparation**: Ensuring data accuracy and consistency is crucial for meaningful analysis.
-- **Visualization Techniques**: Using PowerBI to create dynamic and interactive dashboards enhances the understanding of sales performance.
-- **Sales Trends and Insights**: Identifying trends and patterns helps in making informed business decisions and optimizing sales strategies.
+## Key Aspects of Sales Analysis
+
+- **Data Cleaning and Preparation**: Ensuring data accuracy and consistency is crucial for meaningful analysis. 🧹🔍
+
+- **Visualization Techniques**: Using PowerBI to create dynamic and interactive dashboards enhances the understanding of sales performance. 📊🔧
+
+- **Sales Trends and Insights**: Identifying trends and patterns helps in making informed business decisions and optimizing sales strategies. 📈💡
+
 
 ## Conclusions
-The Sales Performance Dashboard provides a comprehensive view of sales metrics, trends, and key performance indicators. By leveraging PowerBI and SQL, this project offers valuable insights that can drive business growth and improve sales strategies.
+The Sales Performance Dashboard provides a comprehensive view of sales metrics, trends, and key performance indicators. By leveraging PowerBI and PostgreSQL, this project offers valuable insights that can drive business growth and improve sales strategies.
 
 ## Closing Thoughts
-Understanding sales performance is essential for any business aiming to achieve growth and success. This project highlights the importance of data-driven decision-making and the power of visual analytics in uncovering insights from sales data. By continuously monitoring and analyzing sales performance, businesses can stay ahead of the competition and achieve their goals.
+Understanding sales performance is essential for any business aiming to achieve growth and success. 📈 This project highlights the importance of data-driven decision-making and the power of visual analytics in uncovering insights from sales data. 🔍📊 By continuously monitoring and analyzing sales performance, businesses can stay ahead of the competition and achieve their goals. 🚀💡
+
+---

@@ -11,6 +11,7 @@ GROUP BY
     Region, 
     Segment;
 
+
 --Customer Segmentation by Value
 UPDATE 
     Customer_Summary
