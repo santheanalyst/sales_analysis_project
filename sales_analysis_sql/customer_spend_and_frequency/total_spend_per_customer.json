@@ -1,0 +1,3174 @@
+[
+  {
+    "customer_id": "SM-20320",
+    "total_spend": 25043.05
+  },
+  {
+    "customer_id": "TC-20980",
+    "total_spend": 19052.217999999997
+  },
+  {
+    "customer_id": "RB-19360",
+    "total_spend": 15117.339
+  },
+  {
+    "customer_id": "TA-21385",
+    "total_spend": 14595.62
+  },
+  {
+    "customer_id": "AB-10105",
+    "total_spend": 14473.570999999998
+  },
+  {
+    "customer_id": "KL-16645",
+    "total_spend": 14175.229
+  },
+  {
+    "customer_id": "SC-20095",
+    "total_spend": 14142.333999999999
+  },
+  {
+    "customer_id": "HL-15040",
+    "total_spend": 12873.297999999999
+  },
+  {
+    "customer_id": "SE-20110",
+    "total_spend": 12209.438000000002
+  },
+  {
+    "customer_id": "CC-12370",
+    "total_spend": 12129.072
+  },
+  {
+    "customer_id": "TS-21370",
+    "total_spend": 11891.751
+  },
+  {
+    "customer_id": "GT-14710",
+    "total_spend": 11820.119999999997
+  },
+  {
+    "customer_id": "BM-11140",
+    "total_spend": 11789.630000000003
+  },
+  {
+    "customer_id": "SV-20365",
+    "total_spend": 11470.949999999997
+  },
+  {
+    "customer_id": "CJ-12010",
+    "total_spend": 11164.974
+  },
+  {
+    "customer_id": "CL-12565",
+    "total_spend": 10880.545999999998
+  },
+  {
+    "customer_id": "ME-17320",
+    "total_spend": 10663.727999999997
+  },
+  {
+    "customer_id": "KF-16285",
+    "total_spend": 10604.266
+  },
+  {
+    "customer_id": "BS-11365",
+    "total_spend": 10501.652999999998
+  },
+  {
+    "customer_id": "EH-13765",
+    "total_spend": 10310.880000000001
+  },
+  {
+    "customer_id": "JL-15835",
+    "total_spend": 9799.923
+  },
+  {
+    "customer_id": "GT-14635",
+    "total_spend": 9351.211999999998
+  },
+  {
+    "customer_id": "HW-14935",
+    "total_spend": 9300.253999999997
+  },
+  {
+    "customer_id": "TB-21400",
+    "total_spend": 9133.99
+  },
+  {
+    "customer_id": "PF-19120",
+    "total_spend": 9062.863999999998
+  },
+  {
+    "customer_id": "CM-12385",
+    "total_spend": 8954.02
+  },
+  {
+    "customer_id": "JD-16150",
+    "total_spend": 8828.030499999999
+  },
+  {
+    "customer_id": "JE-15715",
+    "total_spend": 8697.843
+  },
+  {
+    "customer_id": "LA-16780",
+    "total_spend": 8673.221999999998
+  },
+  {
+    "customer_id": "PK-19075",
+    "total_spend": 8646.933999999997
+  },
+  {
+    "customer_id": "DR-12940",
+    "total_spend": 8350.868
+  },
+  {
+    "customer_id": "NF-18385",
+    "total_spend": 8322.826000000001
+  },
+  {
+    "customer_id": "KD-16270",
+    "total_spend": 8282.358
+  },
+  {
+    "customer_id": "NC-18535",
+    "total_spend": 8241.739
+  },
+  {
+    "customer_id": "HM-14860",
+    "total_spend": 8236.7648
+  },
+  {
+    "customer_id": "KD-16495",
+    "total_spend": 8181.256
+  },
+  {
+    "customer_id": "SB-20290",
+    "total_spend": 8057.890999999999
+  },
+  {
+    "customer_id": "ZC-21910",
+    "total_spend": 8025.707000000001
+  },
+  {
+    "customer_id": "JH-15985",
+    "total_spend": 7954.998
+  },
+  {
+    "customer_id": "NP-18700",
+    "total_spend": 7903.182500000001
+  },
+  {
+    "customer_id": "AH-10690",
+    "total_spend": 7888.294000000001
+  },
+  {
+    "customer_id": "AB-10060",
+    "total_spend": 7755.619999999999
+  },
+  {
+    "customer_id": "JE-15610",
+    "total_spend": 7754.976
+  },
+  {
+    "customer_id": "JW-15220",
+    "total_spend": 7721.714
+  },
+  {
+    "customer_id": "LC-16885",
+    "total_spend": 7663.125999999999
+  },
+  {
+    "customer_id": "JM-15865",
+    "total_spend": 7625.076000000002
+  },
+  {
+    "customer_id": "JD-15895",
+    "total_spend": 7610.864
+  },
+  {
+    "customer_id": "PO-18850",
+    "total_spend": 7473.828200000001
+  },
+  {
+    "customer_id": "MS-17365",
+    "total_spend": 7443.6900000000005
+  },
+  {
+    "customer_id": "RW-19540",
+    "total_spend": 7397.401000000001
+  },
+  {
+    "customer_id": "BM-11650",
+    "total_spend": 7294.185
+  },
+  {
+    "customer_id": "PP-18955",
+    "total_spend": 7252.608000000002
+  },
+  {
+    "customer_id": "NW-18400",
+    "total_spend": 7234.013999999999
+  },
+  {
+    "customer_id": "Dp-13240",
+    "total_spend": 7198.760999999999
+  },
+  {
+    "customer_id": "FH-14365",
+    "total_spend": 6987.195999999999
+  },
+  {
+    "customer_id": "RH-19510",
+    "total_spend": 6979.18
+  },
+  {
+    "customer_id": "PS-19045",
+    "total_spend": 6843.633999999999
+  },
+  {
+    "customer_id": "BB-11545",
+    "total_spend": 6765.727999999999
+  },
+  {
+    "customer_id": "JE-15745",
+    "total_spend": 6760.814999999999
+  },
+  {
+    "customer_id": "YS-21880",
+    "total_spend": 6720.443999999999
+  },
+  {
+    "customer_id": "AR-10540",
+    "total_spend": 6608.448
+  },
+  {
+    "customer_id": "DR-12880",
+    "total_spend": 6528.033999999999
+  },
+  {
+    "customer_id": "GK-14620",
+    "total_spend": 6497.27
+  },
+  {
+    "customer_id": "JA-15970",
+    "total_spend": 6491.026000000001
+  },
+  {
+    "customer_id": "NM-18445",
+    "total_spend": 6459.343999999999
+  },
+  {
+    "customer_id": "VD-21670",
+    "total_spend": 6442.254000000001
+  },
+  {
+    "customer_id": "SB-20185",
+    "total_spend": 6410.995999999999
+  },
+  {
+    "customer_id": "JG-15160",
+    "total_spend": 6366.391999999999
+  },
+  {
+    "customer_id": "DM-13015",
+    "total_spend": 6345.103
+  },
+  {
+    "customer_id": "CM-12655",
+    "total_spend": 6339.5576
+  },
+  {
+    "customer_id": "MJ-17740",
+    "total_spend": 6320.746
+  },
+  {
+    "customer_id": "BH-11710",
+    "total_spend": 6255.351000000001
+  },
+  {
+    "customer_id": "RL-19615",
+    "total_spend": 6234.909999999999
+  },
+  {
+    "customer_id": "WB-21850",
+    "total_spend": 6160.102
+  },
+  {
+    "customer_id": "VW-21775",
+    "total_spend": 6134.0380000000005
+  },
+  {
+    "customer_id": "SD-20485",
+    "total_spend": 6121.114
+  },
+  {
+    "customer_id": "QJ-19255",
+    "total_spend": 6108.338
+  },
+  {
+    "customer_id": "AD-10180",
+    "total_spend": 6106.879999999999
+  },
+  {
+    "customer_id": "CB-12025",
+    "total_spend": 6076.138999999999
+  },
+  {
+    "customer_id": "GM-14695",
+    "total_spend": 6049.966000000002
+  },
+  {
+    "customer_id": "SC-20380",
+    "total_spend": 5992.535999999999
+  },
+  {
+    "customer_id": "KH-16690",
+    "total_spend": 5990.798999999999
+  },
+  {
+    "customer_id": "RM-19675",
+    "total_spend": 5979.0960000000005
+  },
+  {
+    "customer_id": "KH-16510",
+    "total_spend": 5952.859000000002
+  },
+  {
+    "customer_id": "BF-11170",
+    "total_spend": 5907.972
+  },
+  {
+    "customer_id": "CP-12340",
+    "total_spend": 5888.275000000001
+  },
+  {
+    "customer_id": "BD-11320",
+    "total_spend": 5718.521000000001
+  },
+  {
+    "customer_id": "CS-12505",
+    "total_spend": 5690.054999999999
+  },
+  {
+    "customer_id": "AM-10705",
+    "total_spend": 5664.022
+  },
+  {
+    "customer_id": "RB-19795",
+    "total_spend": 5633.315999999999
+  },
+  {
+    "customer_id": "KM-16375",
+    "total_spend": 5620.186
+  },
+  {
+    "customer_id": "AA-10315",
+    "total_spend": 5563.56
+  },
+  {
+    "customer_id": "SM-20950",
+    "total_spend": 5563.392
+  },
+  {
+    "customer_id": "NP-18325",
+    "total_spend": 5529.62
+  },
+  {
+    "customer_id": "AC-10450",
+    "total_spend": 5527.8460000000005
+  },
+  {
+    "customer_id": "MH-18115",
+    "total_spend": 5503.092999999999
+  },
+  {
+    "customer_id": "DP-13390",
+    "total_spend": 5480.723999999999
+  },
+  {
+    "customer_id": "EP-13915",
+    "total_spend": 5478.0608
+  },
+  {
+    "customer_id": "YC-21895",
+    "total_spend": 5454.35
+  },
+  {
+    "customer_id": "SP-20620",
+    "total_spend": 5440.319
+  },
+  {
+    "customer_id": "LW-17215",
+    "total_spend": 5420.513999999999
+  },
+  {
+    "customer_id": "CP-12085",
+    "total_spend": 5402.253999999999
+  },
+  {
+    "customer_id": "TS-21205",
+    "total_spend": 5371.09
+  },
+  {
+    "customer_id": "TT-21460",
+    "total_spend": 5364.808000000001
+  },
+  {
+    "customer_id": "MW-18220",
+    "total_spend": 5341.9
+  },
+  {
+    "customer_id": "TP-21415",
+    "total_spend": 5329.0048
+  },
+  {
+    "customer_id": "TW-21025",
+    "total_spend": 5278.825999999999
+  },
+  {
+    "customer_id": "DW-13480",
+    "total_spend": 5271.628
+  },
+  {
+    "customer_id": "MW-18235",
+    "total_spend": 5253.876
+  },
+  {
+    "customer_id": "HR-14830",
+    "total_spend": 5248.786999999999
+  },
+  {
+    "customer_id": "SC-20725",
+    "total_spend": 5226.209999999998
+  },
+  {
+    "customer_id": "RP-19390",
+    "total_spend": 5153.084
+  },
+  {
+    "customer_id": "LR-16915",
+    "total_spend": 5142.891999999999
+  },
+  {
+    "customer_id": "MP-18175",
+    "total_spend": 5087.92
+  },
+  {
+    "customer_id": "AA-10645",
+    "total_spend": 5086.935000000001
+  },
+  {
+    "customer_id": "IL-15100",
+    "total_spend": 5040.736
+  },
+  {
+    "customer_id": "KL-16555",
+    "total_spend": 5016.488000000001
+  },
+  {
+    "customer_id": "LB-16795",
+    "total_spend": 4985.676
+  },
+  {
+    "customer_id": "DH-13075",
+    "total_spend": 4932.871999999999
+  },
+  {
+    "customer_id": "IM-15070",
+    "total_spend": 4930.473999999999
+  },
+  {
+    "customer_id": "TT-21070",
+    "total_spend": 4915.602
+  },
+  {
+    "customer_id": "KM-16720",
+    "total_spend": 4909.472000000001
+  },
+  {
+    "customer_id": "PO-19180",
+    "total_spend": 4893.043000000001
+  },
+  {
+    "customer_id": "HK-14890",
+    "total_spend": 4877.784
+  },
+  {
+    "customer_id": "AJ-10780",
+    "total_spend": 4867.344
+  },
+  {
+    "customer_id": "JK-15730",
+    "total_spend": 4867.200000000001
+  },
+  {
+    "customer_id": "AH-10210",
+    "total_spend": 4805.344
+  },
+  {
+    "customer_id": "DK-13225",
+    "total_spend": 4802.393999999999
+  },
+  {
+    "customer_id": "RA-19915",
+    "total_spend": 4793.543000000001
+  },
+  {
+    "customer_id": "SA-20830",
+    "total_spend": 4767.3415
+  },
+  {
+    "customer_id": "JK-15640",
+    "total_spend": 4760.434000000001
+  },
+  {
+    "customer_id": "BW-11110",
+    "total_spend": 4750.357999999999
+  },
+  {
+    "customer_id": "TB-21520",
+    "total_spend": 4737.486
+  },
+  {
+    "customer_id": "GB-14575",
+    "total_spend": 4716.2880000000005
+  },
+  {
+    "customer_id": "RB-19465",
+    "total_spend": 4715.466000000001
+  },
+  {
+    "customer_id": "ES-14080",
+    "total_spend": 4657.924
+  },
+  {
+    "customer_id": "DB-13270",
+    "total_spend": 4655.897
+  },
+  {
+    "customer_id": "KT-16480",
+    "total_spend": 4642.088400000001
+  },
+  {
+    "customer_id": "SC-20050",
+    "total_spend": 4624.572000000001
+  },
+  {
+    "customer_id": "EM-14140",
+    "total_spend": 4588.436
+  },
+  {
+    "customer_id": "DB-13060",
+    "total_spend": 4531.646000000002
+  },
+  {
+    "customer_id": "AR-10825",
+    "total_spend": 4523.335999999999
+  },
+  {
+    "customer_id": "AG-10900",
+    "total_spend": 4510.7970000000005
+  },
+  {
+    "customer_id": "AJ-10795",
+    "total_spend": 4501.391
+  },
+  {
+    "customer_id": "LC-16930",
+    "total_spend": 4492.946
+  },
+  {
+    "customer_id": "SC-20770",
+    "total_spend": 4492.656999999999
+  },
+  {
+    "customer_id": "TP-21130",
+    "total_spend": 4454.056
+  },
+  {
+    "customer_id": "MC-17425",
+    "total_spend": 4432.138
+  },
+  {
+    "customer_id": "JK-15205",
+    "total_spend": 4427.142000000001
+  },
+  {
+    "customer_id": "KW-16435",
+    "total_spend": 4416.52
+  },
+  {
+    "customer_id": "BD-11500",
+    "total_spend": 4411.243
+  },
+  {
+    "customer_id": "AI-10855",
+    "total_spend": 4375.785999999999
+  },
+  {
+    "customer_id": "SC-20230",
+    "total_spend": 4371.9580000000005
+  },
+  {
+    "customer_id": "EB-13840",
+    "total_spend": 4358.128
+  },
+  {
+    "customer_id": "GZ-14470",
+    "total_spend": 4355.15
+  },
+  {
+    "customer_id": "SR-20740",
+    "total_spend": 4345.8859999999995
+  },
+  {
+    "customer_id": "ND-18370",
+    "total_spend": 4326.139
+  },
+  {
+    "customer_id": "MA-17560",
+    "total_spend": 4299.160999999999
+  },
+  {
+    "customer_id": "SP-20860",
+    "total_spend": 4282.94
+  },
+  {
+    "customer_id": "DK-12895",
+    "total_spend": 4282.175999999999
+  },
+  {
+    "customer_id": "RD-19480",
+    "total_spend": 4272.93
+  },
+  {
+    "customer_id": "TC-21295",
+    "total_spend": 4266.812
+  },
+  {
+    "customer_id": "AS-10225",
+    "total_spend": 4260.784000000001
+  },
+  {
+    "customer_id": "FH-14275",
+    "total_spend": 4256.272
+  },
+  {
+    "customer_id": "CB-12535",
+    "total_spend": 4246.4555
+  },
+  {
+    "customer_id": "TH-21550",
+    "total_spend": 4234.0960000000005
+  },
+  {
+    "customer_id": "BE-11335",
+    "total_spend": 4204.6759999999995
+  },
+  {
+    "customer_id": "JF-15565",
+    "total_spend": 4198.332
+  },
+  {
+    "customer_id": "GH-14425",
+    "total_spend": 4172.8460000000005
+  },
+  {
+    "customer_id": "RS-19765",
+    "total_spend": 4159.769999999999
+  },
+  {
+    "customer_id": "MY-18295",
+    "total_spend": 4152.696000000001
+  },
+  {
+    "customer_id": "PM-19135",
+    "total_spend": 4115.662
+  },
+  {
+    "customer_id": "SV-20785",
+    "total_spend": 4105.305
+  },
+  {
+    "customer_id": "DM-13345",
+    "total_spend": 4074.4720000000007
+  },
+  {
+    "customer_id": "FP-14320",
+    "total_spend": 4046.7460000000005
+  },
+  {
+    "customer_id": "SP-20920",
+    "total_spend": 3990.6890000000003
+  },
+  {
+    "customer_id": "CM-12715",
+    "total_spend": 3984.4524
+  },
+  {
+    "customer_id": "MP-17965",
+    "total_spend": 3983.6420000000003
+  },
+  {
+    "customer_id": "SC-20305",
+    "total_spend": 3979.0649999999996
+  },
+  {
+    "customer_id": "SJ-20125",
+    "total_spend": 3949.6559999999995
+  },
+  {
+    "customer_id": "LF-17185",
+    "total_spend": 3930.509
+  },
+  {
+    "customer_id": "PW-19240",
+    "total_spend": 3922.4149999999995
+  },
+  {
+    "customer_id": "GA-14515",
+    "total_spend": 3919.7760000000003
+  },
+  {
+    "customer_id": "KH-16630",
+    "total_spend": 3918.966
+  },
+  {
+    "customer_id": "CC-12220",
+    "total_spend": 3913.418
+  },
+  {
+    "customer_id": "DB-13555",
+    "total_spend": 3908.8028
+  },
+  {
+    "customer_id": "NP-18670",
+    "total_spend": 3908.402
+  },
+  {
+    "customer_id": "KC-16540",
+    "total_spend": 3908.2619999999997
+  },
+  {
+    "customer_id": "FC-14335",
+    "total_spend": 3889.3659999999995
+  },
+  {
+    "customer_id": "BS-11380",
+    "total_spend": 3887.834
+  },
+  {
+    "customer_id": "JS-15880",
+    "total_spend": 3868.02
+  },
+  {
+    "customer_id": "RA-19885",
+    "total_spend": 3832.3139999999994
+  },
+  {
+    "customer_id": "AT-10735",
+    "total_spend": 3831.8640000000005
+  },
+  {
+    "customer_id": "OT-18730",
+    "total_spend": 3818.6240000000003
+  },
+  {
+    "customer_id": "RO-19780",
+    "total_spend": 3815.478
+  },
+  {
+    "customer_id": "MC-17845",
+    "total_spend": 3805.714000000001
+  },
+  {
+    "customer_id": "MM-17920",
+    "total_spend": 3794.08
+  },
+  {
+    "customer_id": "CA-11965",
+    "total_spend": 3789.7228
+  },
+  {
+    "customer_id": "MG-17650",
+    "total_spend": 3785.276
+  },
+  {
+    "customer_id": "MD-17350",
+    "total_spend": 3766.382
+  },
+  {
+    "customer_id": "JK-15625",
+    "total_spend": 3760.028
+  },
+  {
+    "customer_id": "JK-16090",
+    "total_spend": 3747.6680000000006
+  },
+  {
+    "customer_id": "FM-14290",
+    "total_spend": 3736.1979999999994
+  },
+  {
+    "customer_id": "SC-20260",
+    "total_spend": 3729.7929999999997
+  },
+  {
+    "customer_id": "HG-15025",
+    "total_spend": 3690.284
+  },
+  {
+    "customer_id": "BP-11185",
+    "total_spend": 3675.861
+  },
+  {
+    "customer_id": "LP-17095",
+    "total_spend": 3653.3990000000003
+  },
+  {
+    "customer_id": "CS-12400",
+    "total_spend": 3651.8585000000007
+  },
+  {
+    "customer_id": "EB-13705",
+    "total_spend": 3644.9780000000005
+  },
+  {
+    "customer_id": "JP-15520",
+    "total_spend": 3635.5940000000005
+  },
+  {
+    "customer_id": "SZ-20035",
+    "total_spend": 3625.3289999999997
+  },
+  {
+    "customer_id": "RH-19495",
+    "total_spend": 3621.3759999999997
+  },
+  {
+    "customer_id": "TB-21175",
+    "total_spend": 3589.296
+  },
+  {
+    "customer_id": "GM-14440",
+    "total_spend": 3582.8199999999997
+  },
+  {
+    "customer_id": "DL-13495",
+    "total_spend": 3539.322
+  },
+  {
+    "customer_id": "ES-14020",
+    "total_spend": 3510.4579999999996
+  },
+  {
+    "customer_id": "RW-19690",
+    "total_spend": 3495.646
+  },
+  {
+    "customer_id": "AG-10675",
+    "total_spend": 3489.0395999999996
+  },
+  {
+    "customer_id": "ED-13885",
+    "total_spend": 3484.92
+  },
+  {
+    "customer_id": "PW-19030",
+    "total_spend": 3454.916
+  },
+  {
+    "customer_id": "SF-20200",
+    "total_spend": 3422.785999999999
+  },
+  {
+    "customer_id": "FC-14245",
+    "total_spend": 3418.742
+  },
+  {
+    "customer_id": "SH-19975",
+    "total_spend": 3406.8394999999996
+  },
+  {
+    "customer_id": "SG-20080",
+    "total_spend": 3406.581
+  },
+  {
+    "customer_id": "TS-21655",
+    "total_spend": 3368.093999999999
+  },
+  {
+    "customer_id": "SC-20020",
+    "total_spend": 3362.9635999999996
+  },
+  {
+    "customer_id": "VP-21760",
+    "total_spend": 3360.526
+  },
+  {
+    "customer_id": "DJ-13630",
+    "total_spend": 3356.3979999999997
+  },
+  {
+    "customer_id": "DV-13465",
+    "total_spend": 3341.5870000000004
+  },
+  {
+    "customer_id": "SF-20965",
+    "total_spend": 3336.535
+  },
+  {
+    "customer_id": "DC-12850",
+    "total_spend": 3336.1680000000006
+  },
+  {
+    "customer_id": "AP-10915",
+    "total_spend": 3323.556
+  },
+  {
+    "customer_id": "DK-13375",
+    "total_spend": 3318.4859999999994
+  },
+  {
+    "customer_id": "KH-16330",
+    "total_spend": 3312.864
+  },
+  {
+    "customer_id": "RF-19345",
+    "total_spend": 3309.1500000000005
+  },
+  {
+    "customer_id": "RR-19525",
+    "total_spend": 3302.262
+  },
+  {
+    "customer_id": "BD-11605",
+    "total_spend": 3288.471
+  },
+  {
+    "customer_id": "BS-11665",
+    "total_spend": 3288.11
+  },
+  {
+    "customer_id": "RW-19630",
+    "total_spend": 3279.7459999999996
+  },
+  {
+    "customer_id": "DL-12925",
+    "total_spend": 3272.2000000000003
+  },
+  {
+    "customer_id": "DK-12835",
+    "total_spend": 3256.4800000000005
+  },
+  {
+    "customer_id": "AS-10090",
+    "total_spend": 3255.3099999999995
+  },
+  {
+    "customer_id": "JO-15145",
+    "total_spend": 3254.9490000000005
+  },
+  {
+    "customer_id": "AH-10075",
+    "total_spend": 3250.336999999999
+  },
+  {
+    "customer_id": "HG-14965",
+    "total_spend": 3247.6419999999994
+  },
+  {
+    "customer_id": "LC-16960",
+    "total_spend": 3246.626
+  },
+  {
+    "customer_id": "CT-11995",
+    "total_spend": 3241.898000000001
+  },
+  {
+    "customer_id": "EB-13750",
+    "total_spend": 3236.3139999999994
+  },
+  {
+    "customer_id": "SR-20425",
+    "total_spend": 3233.481
+  },
+  {
+    "customer_id": "LW-16990",
+    "total_spend": 3230.308
+  },
+  {
+    "customer_id": "RS-19420",
+    "total_spend": 3221.29
+  },
+  {
+    "customer_id": "AS-10285",
+    "total_spend": 3214.236
+  },
+  {
+    "customer_id": "MP-17470",
+    "total_spend": 3206.132
+  },
+  {
+    "customer_id": "CS-12355",
+    "total_spend": 3202.1620000000003
+  },
+  {
+    "customer_id": "BT-11680",
+    "total_spend": 3196.7520000000004
+  },
+  {
+    "customer_id": "DG-13300",
+    "total_spend": 3195.818
+  },
+  {
+    "customer_id": "JL-15505",
+    "total_spend": 3173.874
+  },
+  {
+    "customer_id": "GM-14680",
+    "total_spend": 3163.628
+  },
+  {
+    "customer_id": "JM-15250",
+    "total_spend": 3159.1220000000003
+  },
+  {
+    "customer_id": "CK-12205",
+    "total_spend": 3154.855
+  },
+  {
+    "customer_id": "KB-16240",
+    "total_spend": 3152.615
+  },
+  {
+    "customer_id": "MS-17770",
+    "total_spend": 3144.6779999999994
+  },
+  {
+    "customer_id": "RD-19900",
+    "total_spend": 3133.9239999999995
+  },
+  {
+    "customer_id": "TN-21040",
+    "total_spend": 3130.221
+  },
+  {
+    "customer_id": "SN-20710",
+    "total_spend": 3127.9592000000007
+  },
+  {
+    "customer_id": "SG-20605",
+    "total_spend": 3124.832000000001
+  },
+  {
+    "customer_id": "KH-16360",
+    "total_spend": 3100.6119999999996
+  },
+  {
+    "customer_id": "PG-18820",
+    "total_spend": 3086.907
+  },
+  {
+    "customer_id": "EH-14125",
+    "total_spend": 3082.6530000000002
+  },
+  {
+    "customer_id": "GM-14455",
+    "total_spend": 3078.6240000000003
+  },
+  {
+    "customer_id": "EB-14110",
+    "total_spend": 3071.1259999999997
+  },
+  {
+    "customer_id": "MG-18145",
+    "total_spend": 3061.543
+  },
+  {
+    "customer_id": "TG-21310",
+    "total_spend": 3058.3720000000003
+  },
+  {
+    "customer_id": "KT-16465",
+    "total_spend": 3057.1
+  },
+  {
+    "customer_id": "SS-20410",
+    "total_spend": 3056.807
+  },
+  {
+    "customer_id": "SL-20155",
+    "total_spend": 3053.012000000001
+  },
+  {
+    "customer_id": "AS-10045",
+    "total_spend": 3050.6920000000005
+  },
+  {
+    "customer_id": "CA-12775",
+    "total_spend": 3041.5659999999993
+  },
+  {
+    "customer_id": "CS-11950",
+    "total_spend": 3036.5469999999996
+  },
+  {
+    "customer_id": "LS-16975",
+    "total_spend": 2988.674
+  },
+  {
+    "customer_id": "MH-18025",
+    "total_spend": 2984.9480000000003
+  },
+  {
+    "customer_id": "FA-14230",
+    "total_spend": 2984.053999999999
+  },
+  {
+    "customer_id": "DB-13120",
+    "total_spend": 2973.094
+  },
+  {
+    "customer_id": "NS-18640",
+    "total_spend": 2964.8229999999994
+  },
+  {
+    "customer_id": "TM-21010",
+    "total_spend": 2955.2259999999997
+  },
+  {
+    "customer_id": "CK-12325",
+    "total_spend": 2945.321
+  },
+  {
+    "customer_id": "TH-21115",
+    "total_spend": 2942.772
+  },
+  {
+    "customer_id": "LT-17110",
+    "total_spend": 2936.2519999999995
+  },
+  {
+    "customer_id": "BC-11125",
+    "total_spend": 2933.6759999999995
+  },
+  {
+    "customer_id": "JK-16120",
+    "total_spend": 2932.4840000000004
+  },
+  {
+    "customer_id": "SW-20455",
+    "total_spend": 2921.544
+  },
+  {
+    "customer_id": "ML-17410",
+    "total_spend": 2921.499999999999
+  },
+  {
+    "customer_id": "RD-19585",
+    "total_spend": 2912.8940000000002
+  },
+  {
+    "customer_id": "CY-12745",
+    "total_spend": 2900.026
+  },
+  {
+    "customer_id": "ND-18460",
+    "total_spend": 2893.455
+  },
+  {
+    "customer_id": "MT-17815",
+    "total_spend": 2890.139
+  },
+  {
+    "customer_id": "BF-11020",
+    "total_spend": 2888.506
+  },
+  {
+    "customer_id": "DS-13180",
+    "total_spend": 2881.8128
+  },
+  {
+    "customer_id": "PV-18985",
+    "total_spend": 2876.0460000000003
+  },
+  {
+    "customer_id": "IM-15055",
+    "total_spend": 2872.63
+  },
+  {
+    "customer_id": "CC-12430",
+    "total_spend": 2870.0500000000006
+  },
+  {
+    "customer_id": "CC-12685",
+    "total_spend": 2854.1150000000007
+  },
+  {
+    "customer_id": "AW-10930",
+    "total_spend": 2852.9680000000003
+  },
+  {
+    "customer_id": "EA-14035",
+    "total_spend": 2846.7050000000004
+  },
+  {
+    "customer_id": "LS-16945",
+    "total_spend": 2845.27
+  },
+  {
+    "customer_id": "DB-12970",
+    "total_spend": 2839.2272000000003
+  },
+  {
+    "customer_id": "JM-16195",
+    "total_spend": 2833.9260000000004
+  },
+  {
+    "customer_id": "CV-12295",
+    "total_spend": 2830.6279999999997
+  },
+  {
+    "customer_id": "TS-21610",
+    "total_spend": 2820.4240000000004
+  },
+  {
+    "customer_id": "GH-14410",
+    "total_spend": 2819.4670000000006
+  },
+  {
+    "customer_id": "BG-11035",
+    "total_spend": 2798.948
+  },
+  {
+    "customer_id": "TB-21625",
+    "total_spend": 2797.668
+  },
+  {
+    "customer_id": "RD-19660",
+    "total_spend": 2786.6319999999996
+  },
+  {
+    "customer_id": "JC-15775",
+    "total_spend": 2772.0550000000007
+  },
+  {
+    "customer_id": "PF-19165",
+    "total_spend": 2770
+  },
+  {
+    "customer_id": "EB-13870",
+    "total_spend": 2767.219
+  },
+  {
+    "customer_id": "CS-12250",
+    "total_spend": 2754.216
+  },
+  {
+    "customer_id": "MM-18055",
+    "total_spend": 2749.881
+  },
+  {
+    "customer_id": "KB-16585",
+    "total_spend": 2744.742
+  },
+  {
+    "customer_id": "LL-16840",
+    "total_spend": 2741.204
+  },
+  {
+    "customer_id": "MC-17275",
+    "total_spend": 2725.982
+  },
+  {
+    "customer_id": "JL-15850",
+    "total_spend": 2725.2560000000003
+  },
+  {
+    "customer_id": "ML-17395",
+    "total_spend": 2722.843
+  },
+  {
+    "customer_id": "JK-15370",
+    "total_spend": 2709.632
+  },
+  {
+    "customer_id": "JE-16165",
+    "total_spend": 2697.248
+  },
+  {
+    "customer_id": "BT-11530",
+    "total_spend": 2684.492
+  },
+  {
+    "customer_id": "BO-11350",
+    "total_spend": 2682.728
+  },
+  {
+    "customer_id": "FO-14305",
+    "total_spend": 2678.438
+  },
+  {
+    "customer_id": "NH-18610",
+    "total_spend": 2673.2899999999995
+  },
+  {
+    "customer_id": "RB-19435",
+    "total_spend": 2663.0860000000002
+  },
+  {
+    "customer_id": "EJ-14155",
+    "total_spend": 2656.691
+  },
+  {
+    "customer_id": "DK-13090",
+    "total_spend": 2650.557
+  },
+  {
+    "customer_id": "CA-12265",
+    "total_spend": 2648.2871999999998
+  },
+  {
+    "customer_id": "LC-17140",
+    "total_spend": 2633.5820000000003
+  },
+  {
+    "customer_id": "RA-19285",
+    "total_spend": 2617.9060000000004
+  },
+  {
+    "customer_id": "KN-16390",
+    "total_spend": 2617.2720000000004
+  },
+  {
+    "customer_id": "SO-20335",
+    "total_spend": 2602.575500000001
+  },
+  {
+    "customer_id": "SU-20665",
+    "total_spend": 2595.3640000000005
+  },
+  {
+    "customer_id": "HA-14920",
+    "total_spend": 2584.1580000000004
+  },
+  {
+    "customer_id": "AG-10270",
+    "total_spend": 2582.8979999999997
+  },
+  {
+    "customer_id": "LC-16870",
+    "total_spend": 2580.7039999999997
+  },
+  {
+    "customer_id": "SC-20695",
+    "total_spend": 2576.408
+  },
+  {
+    "customer_id": "NS-18505",
+    "total_spend": 2575.863
+  },
+  {
+    "customer_id": "BT-11305",
+    "total_spend": 2567.656
+  },
+  {
+    "customer_id": "EM-13810",
+    "total_spend": 2567.01
+  },
+  {
+    "customer_id": "MZ-17515",
+    "total_spend": 2564.906
+  },
+  {
+    "customer_id": "BS-11755",
+    "total_spend": 2562.3820000000005
+  },
+  {
+    "customer_id": "DE-13255",
+    "total_spend": 2550.874
+  },
+  {
+    "customer_id": "CC-12610",
+    "total_spend": 2540.631
+  },
+  {
+    "customer_id": "AC-10615",
+    "total_spend": 2537.686
+  },
+  {
+    "customer_id": "CM-12160",
+    "total_spend": 2533.314
+  },
+  {
+    "customer_id": "HF-14995",
+    "total_spend": 2533.164
+  },
+  {
+    "customer_id": "FM-14380",
+    "total_spend": 2523.2659999999996
+  },
+  {
+    "customer_id": "JB-16045",
+    "total_spend": 2518.115
+  },
+  {
+    "customer_id": "JS-16030",
+    "total_spend": 2516.4939999999997
+  },
+  {
+    "customer_id": "DJ-13510",
+    "total_spend": 2501.688
+  },
+  {
+    "customer_id": "AH-10465",
+    "total_spend": 2495.3916000000004
+  },
+  {
+    "customer_id": "PO-18865",
+    "total_spend": 2493.2140000000004
+  },
+  {
+    "customer_id": "NZ-18565",
+    "total_spend": 2488.31
+  },
+  {
+    "customer_id": "MN-17935",
+    "total_spend": 2477.946
+  },
+  {
+    "customer_id": "BP-11290",
+    "total_spend": 2475.1570000000006
+  },
+  {
+    "customer_id": "CC-12145",
+    "total_spend": 2471.6500000000005
+  },
+  {
+    "customer_id": "NC-18340",
+    "total_spend": 2461.404000000001
+  },
+  {
+    "customer_id": "FM-14215",
+    "total_spend": 2456.6380000000004
+  },
+  {
+    "customer_id": "MH-17455",
+    "total_spend": 2456.182
+  },
+  {
+    "customer_id": "BS-11590",
+    "total_spend": 2454.9280000000003
+  },
+  {
+    "customer_id": "VM-21685",
+    "total_spend": 2454.866
+  },
+  {
+    "customer_id": "GZ-14545",
+    "total_spend": 2454.6220000000003
+  },
+  {
+    "customer_id": "MA-17995",
+    "total_spend": 2453.284
+  },
+  {
+    "customer_id": "BP-11095",
+    "total_spend": 2442.044
+  },
+  {
+    "customer_id": "MC-17590",
+    "total_spend": 2426.0669999999996
+  },
+  {
+    "customer_id": "TH-21100",
+    "total_spend": 2422.824
+  },
+  {
+    "customer_id": "MH-17290",
+    "total_spend": 2394.0249999999996
+  },
+  {
+    "customer_id": "DF-13135",
+    "total_spend": 2390.534
+  },
+  {
+    "customer_id": "XP-21865",
+    "total_spend": 2374.6580000000004
+  },
+  {
+    "customer_id": "CK-12595",
+    "total_spend": 2372.7500000000005
+  },
+  {
+    "customer_id": "JF-15415",
+    "total_spend": 2371.448
+  },
+  {
+    "customer_id": "CV-12805",
+    "total_spend": 2370.3136
+  },
+  {
+    "customer_id": "NR-18550",
+    "total_spend": 2367.277
+  },
+  {
+    "customer_id": "JG-15115",
+    "total_spend": 2358.676
+  },
+  {
+    "customer_id": "AG-10495",
+    "total_spend": 2356.855
+  },
+  {
+    "customer_id": "CL-12700",
+    "total_spend": 2353.586
+  },
+  {
+    "customer_id": "MG-17680",
+    "total_spend": 2350.188
+  },
+  {
+    "customer_id": "RF-19735",
+    "total_spend": 2341.2960000000003
+  },
+  {
+    "customer_id": "EM-13825",
+    "total_spend": 2339.598
+  },
+  {
+    "customer_id": "DB-13210",
+    "total_spend": 2332.577
+  },
+  {
+    "customer_id": "CM-12235",
+    "total_spend": 2305.712
+  },
+  {
+    "customer_id": "MK-17905",
+    "total_spend": 2302.3680000000004
+  },
+  {
+    "customer_id": "LH-16900",
+    "total_spend": 2295.3320000000003
+  },
+  {
+    "customer_id": "KN-16705",
+    "total_spend": 2280.5800000000004
+  },
+  {
+    "customer_id": "JF-15190",
+    "total_spend": 2279.5860000000002
+  },
+  {
+    "customer_id": "FH-14350",
+    "total_spend": 2271.284
+  },
+  {
+    "customer_id": "CC-12670",
+    "total_spend": 2269.7015000000006
+  },
+  {
+    "customer_id": "BE-11410",
+    "total_spend": 2261.438
+  },
+  {
+    "customer_id": "KM-16225",
+    "total_spend": 2260.9579999999996
+  },
+  {
+    "customer_id": "MC-17605",
+    "total_spend": 2258.192
+  },
+  {
+    "customer_id": "JH-16180",
+    "total_spend": 2256.3940000000002
+  },
+  {
+    "customer_id": "MY-17380",
+    "total_spend": 2254.2849999999994
+  },
+  {
+    "customer_id": "KD-16615",
+    "total_spend": 2243.5099999999998
+  },
+  {
+    "customer_id": "TS-21505",
+    "total_spend": 2243.274
+  },
+  {
+    "customer_id": "JG-15310",
+    "total_spend": 2240.5800000000004
+  },
+  {
+    "customer_id": "LW-16825",
+    "total_spend": 2238.0609999999997
+  },
+  {
+    "customer_id": "AR-10405",
+    "total_spend": 2236.128
+  },
+  {
+    "customer_id": "GG-14650",
+    "total_spend": 2224.000000000001
+  },
+  {
+    "customer_id": "NC-18415",
+    "total_spend": 2218.99
+  },
+  {
+    "customer_id": "MC-18100",
+    "total_spend": 2218.98
+  },
+  {
+    "customer_id": "DP-13105",
+    "total_spend": 2215.002
+  },
+  {
+    "customer_id": "PF-19225",
+    "total_spend": 2206.1279999999997
+  },
+  {
+    "customer_id": "MH-17785",
+    "total_spend": 2203.7780000000002
+  },
+  {
+    "customer_id": "JL-15235",
+    "total_spend": 2203.7
+  },
+  {
+    "customer_id": "JR-16210",
+    "total_spend": 2201.6859999999997
+  },
+  {
+    "customer_id": "EN-13780",
+    "total_spend": 2199.366
+  },
+  {
+    "customer_id": "TB-21280",
+    "total_spend": 2198.45
+  },
+  {
+    "customer_id": "GW-14605",
+    "total_spend": 2189.0190000000007
+  },
+  {
+    "customer_id": "BT-11395",
+    "total_spend": 2186.6130000000003
+  },
+  {
+    "customer_id": "PS-18760",
+    "total_spend": 2181.479
+  },
+  {
+    "customer_id": "SH-20395",
+    "total_spend": 2180.718
+  },
+  {
+    "customer_id": "KN-16450",
+    "total_spend": 2171.962
+  },
+  {
+    "customer_id": "DB-12910",
+    "total_spend": 2171.599
+  },
+  {
+    "customer_id": "RP-19855",
+    "total_spend": 2170.716000000001
+  },
+  {
+    "customer_id": "TS-21160",
+    "total_spend": 2163.6240000000003
+  },
+  {
+    "customer_id": "HA-14905",
+    "total_spend": 2163.3
+  },
+  {
+    "customer_id": "EJ-13720",
+    "total_spend": 2162.174
+  },
+  {
+    "customer_id": "NM-18520",
+    "total_spend": 2161.9790000000003
+  },
+  {
+    "customer_id": "JD-15790",
+    "total_spend": 2152.3520000000003
+  },
+  {
+    "customer_id": "CR-12580",
+    "total_spend": 2148.852
+  },
+  {
+    "customer_id": "DN-13690",
+    "total_spend": 2139.7900000000004
+  },
+  {
+    "customer_id": "KC-16255",
+    "total_spend": 2120.954
+  },
+  {
+    "customer_id": "SH-20635",
+    "total_spend": 2096.392
+  },
+  {
+    "customer_id": "LC-17050",
+    "total_spend": 2095.064
+  },
+  {
+    "customer_id": "RH-19600",
+    "total_spend": 2085.7400000000002
+  },
+  {
+    "customer_id": "TG-21640",
+    "total_spend": 2074.661
+  },
+  {
+    "customer_id": "ML-17755",
+    "total_spend": 2071.914
+  },
+  {
+    "customer_id": "RB-19705",
+    "total_spend": 2067.45
+  },
+  {
+    "customer_id": "TS-21430",
+    "total_spend": 2054.14
+  },
+  {
+    "customer_id": "AF-10870",
+    "total_spend": 2052.9080000000004
+  },
+  {
+    "customer_id": "CD-11920",
+    "total_spend": 2033.968
+  },
+  {
+    "customer_id": "NF-18595",
+    "total_spend": 2031.472
+  },
+  {
+    "customer_id": "DJ-13420",
+    "total_spend": 2012.5200000000002
+  },
+  {
+    "customer_id": "VB-21745",
+    "total_spend": 2005.5959999999998
+  },
+  {
+    "customer_id": "HP-14815",
+    "total_spend": 1990.314
+  },
+  {
+    "customer_id": "DB-13615",
+    "total_spend": 1989.05
+  },
+  {
+    "customer_id": "PG-18895",
+    "total_spend": 1987.1640000000002
+  },
+  {
+    "customer_id": "NB-18655",
+    "total_spend": 1972.599
+  },
+  {
+    "customer_id": "SW-20275",
+    "total_spend": 1966.65
+  },
+  {
+    "customer_id": "LD-17005",
+    "total_spend": 1961.934
+  },
+  {
+    "customer_id": "CB-12415",
+    "total_spend": 1949.2
+  },
+  {
+    "customer_id": "TP-21565",
+    "total_spend": 1936.6399999999996
+  },
+  {
+    "customer_id": "JO-15280",
+    "total_spend": 1934.2720000000002
+  },
+  {
+    "customer_id": "JF-15355",
+    "total_spend": 1911.844
+  },
+  {
+    "customer_id": "ME-17725",
+    "total_spend": 1908.4532
+  },
+  {
+    "customer_id": "SV-20935",
+    "total_spend": 1903.491
+  },
+  {
+    "customer_id": "KD-16345",
+    "total_spend": 1888.964
+  },
+  {
+    "customer_id": "GD-14590",
+    "total_spend": 1888.0700000000002
+  },
+  {
+    "customer_id": "SG-20470",
+    "total_spend": 1884.7980000000002
+  },
+  {
+    "customer_id": "LR-17035",
+    "total_spend": 1879.3059999999998
+  },
+  {
+    "customer_id": "SC-20440",
+    "total_spend": 1874.998
+  },
+  {
+    "customer_id": "BG-11695",
+    "total_spend": 1874.172
+  },
+  {
+    "customer_id": "SP-20650",
+    "total_spend": 1872.4360000000001
+  },
+  {
+    "customer_id": "NG-18355",
+    "total_spend": 1869.58
+  },
+  {
+    "customer_id": "CD-12790",
+    "total_spend": 1860.732
+  },
+  {
+    "customer_id": "SN-20560",
+    "total_spend": 1860.418
+  },
+  {
+    "customer_id": "PR-18880",
+    "total_spend": 1840.1779999999997
+  },
+  {
+    "customer_id": "AJ-10945",
+    "total_spend": 1839.2400000000002
+  },
+  {
+    "customer_id": "PC-18745",
+    "total_spend": 1832.064
+  },
+  {
+    "customer_id": "EG-13900",
+    "total_spend": 1832.02
+  },
+  {
+    "customer_id": "PJ-19015",
+    "total_spend": 1824.2340000000002
+  },
+  {
+    "customer_id": "NC-18625",
+    "total_spend": 1821.7420000000002
+  },
+  {
+    "customer_id": "JM-15265",
+    "total_spend": 1804.1460000000002
+  },
+  {
+    "customer_id": "JB-15400",
+    "total_spend": 1791.605
+  },
+  {
+    "customer_id": "AA-10480",
+    "total_spend": 1790.512
+  },
+  {
+    "customer_id": "CC-12100",
+    "total_spend": 1770.945
+  },
+  {
+    "customer_id": "DS-13030",
+    "total_spend": 1762.2130000000002
+  },
+  {
+    "customer_id": "MF-18250",
+    "total_spend": 1758.3
+  },
+  {
+    "customer_id": "AH-10030",
+    "total_spend": 1744.6999999999998
+  },
+  {
+    "customer_id": "LH-17155",
+    "total_spend": 1739.6889999999999
+  },
+  {
+    "customer_id": "BW-11200",
+    "total_spend": 1738.4060000000002
+  },
+  {
+    "customer_id": "VT-21700",
+    "total_spend": 1736.596
+  },
+  {
+    "customer_id": "AH-10120",
+    "total_spend": 1735.5140000000001
+  },
+  {
+    "customer_id": "MV-18190",
+    "total_spend": 1734.5739999999998
+  },
+  {
+    "customer_id": "JM-15535",
+    "total_spend": 1733.4430000000002
+  },
+  {
+    "customer_id": "BE-11455",
+    "total_spend": 1727.652
+  },
+  {
+    "customer_id": "DB-13405",
+    "total_spend": 1711.692
+  },
+  {
+    "customer_id": "JP-16135",
+    "total_spend": 1707.7099999999998
+  },
+  {
+    "customer_id": "TZ-21580",
+    "total_spend": 1707.2860000000003
+  },
+  {
+    "customer_id": "BP-11155",
+    "total_spend": 1697.8609999999999
+  },
+  {
+    "customer_id": "DK-12985",
+    "total_spend": 1687.04
+  },
+  {
+    "customer_id": "MO-17800",
+    "total_spend": 1687.027
+  },
+  {
+    "customer_id": "RA-19945",
+    "total_spend": 1686.9225000000004
+  },
+  {
+    "customer_id": "KE-16420",
+    "total_spend": 1686.7312000000002
+  },
+  {
+    "customer_id": "CA-12055",
+    "total_spend": 1679.724
+  },
+  {
+    "customer_id": "CM-11815",
+    "total_spend": 1673.8880000000001
+  },
+  {
+    "customer_id": "JP-15460",
+    "total_spend": 1669.1350000000002
+  },
+  {
+    "customer_id": "CM-12115",
+    "total_spend": 1661.6100000000001
+  },
+  {
+    "customer_id": "CC-12475",
+    "total_spend": 1659.438
+  },
+  {
+    "customer_id": "EB-13975",
+    "total_spend": 1643.255
+  },
+  {
+    "customer_id": "AP-10720",
+    "total_spend": 1638.5539999999999
+  },
+  {
+    "customer_id": "AZ-10750",
+    "total_spend": 1622.018
+  },
+  {
+    "customer_id": "MS-17710",
+    "total_spend": 1613.402
+  },
+  {
+    "customer_id": "TB-21250",
+    "total_spend": 1602.376
+  },
+  {
+    "customer_id": "CR-12730",
+    "total_spend": 1600.55
+  },
+  {
+    "customer_id": "AH-10195",
+    "total_spend": 1587.452
+  },
+  {
+    "customer_id": "BF-11215",
+    "total_spend": 1585.162
+  },
+  {
+    "customer_id": "CK-12760",
+    "total_spend": 1582.1090000000004
+  },
+  {
+    "customer_id": "MC-18130",
+    "total_spend": 1581.9979999999998
+  },
+  {
+    "customer_id": "JL-15175",
+    "total_spend": 1571.523
+  },
+  {
+    "customer_id": "KB-16315",
+    "total_spend": 1569.4640000000002
+  },
+  {
+    "customer_id": "GB-14530",
+    "total_spend": 1568.44
+  },
+  {
+    "customer_id": "ON-18715",
+    "total_spend": 1567.52
+  },
+  {
+    "customer_id": "MV-17485",
+    "total_spend": 1560.05
+  },
+  {
+    "customer_id": "MB-17305",
+    "total_spend": 1548.7019999999998
+  },
+  {
+    "customer_id": "BD-11620",
+    "total_spend": 1538.1099999999997
+  },
+  {
+    "customer_id": "CH-12070",
+    "total_spend": 1537.2360000000003
+  },
+  {
+    "customer_id": "BD-11725",
+    "total_spend": 1526.5
+  },
+  {
+    "customer_id": "BV-11245",
+    "total_spend": 1523.2730000000001
+  },
+  {
+    "customer_id": "KA-16525",
+    "total_spend": 1519.506
+  },
+  {
+    "customer_id": "AB-10600",
+    "total_spend": 1515.862
+  },
+  {
+    "customer_id": "JG-15805",
+    "total_spend": 1507.0180000000003
+  },
+  {
+    "customer_id": "DL-12865",
+    "total_spend": 1503.112
+  },
+  {
+    "customer_id": "ZD-21925",
+    "total_spend": 1493.944
+  },
+  {
+    "customer_id": "CM-12190",
+    "total_spend": 1475.1440000000002
+  },
+  {
+    "customer_id": "LE-16810",
+    "total_spend": 1469.4500000000003
+  },
+  {
+    "customer_id": "TB-21055",
+    "total_spend": 1467.881
+  },
+  {
+    "customer_id": "PN-18775",
+    "total_spend": 1467.152
+  },
+  {
+    "customer_id": "RK-19300",
+    "total_spend": 1460.1920000000002
+  },
+  {
+    "customer_id": "BN-11515",
+    "total_spend": 1459.344
+  },
+  {
+    "customer_id": "DL-13315",
+    "total_spend": 1458.2580000000003
+  },
+  {
+    "customer_id": "PB-19150",
+    "total_spend": 1456.9499999999998
+  },
+  {
+    "customer_id": "AG-10525",
+    "total_spend": 1455.0379999999998
+  },
+  {
+    "customer_id": "RM-19375",
+    "total_spend": 1453.474
+  },
+  {
+    "customer_id": "PK-18910",
+    "total_spend": 1441.152
+  },
+  {
+    "customer_id": "TD-20995",
+    "total_spend": 1434.5480000000002
+  },
+  {
+    "customer_id": "JW-16075",
+    "total_spend": 1428.731
+  },
+  {
+    "customer_id": "MB-18085",
+    "total_spend": 1428.231
+  },
+  {
+    "customer_id": "TT-21220",
+    "total_spend": 1427.044
+  },
+  {
+    "customer_id": "CA-12310",
+    "total_spend": 1421.954
+  },
+  {
+    "customer_id": "RD-19720",
+    "total_spend": 1419.7370000000003
+  },
+  {
+    "customer_id": "NL-18310",
+    "total_spend": 1418.0900000000001
+  },
+  {
+    "customer_id": "JS-15595",
+    "total_spend": 1417.654
+  },
+  {
+    "customer_id": "PM-18940",
+    "total_spend": 1405.402
+  },
+  {
+    "customer_id": "GA-14725",
+    "total_spend": 1398.382
+  },
+  {
+    "customer_id": "CR-12820",
+    "total_spend": 1397.8724000000002
+  },
+  {
+    "customer_id": "NG-18430",
+    "total_spend": 1395.938
+  },
+  {
+    "customer_id": "JE-15475",
+    "total_spend": 1388.682
+  },
+  {
+    "customer_id": "TB-21595",
+    "total_spend": 1387.559
+  },
+  {
+    "customer_id": "FG-14260",
+    "total_spend": 1383.1440000000002
+  },
+  {
+    "customer_id": "DM-13525",
+    "total_spend": 1376.792
+  },
+  {
+    "customer_id": "GH-14485",
+    "total_spend": 1361.2440000000001
+  },
+  {
+    "customer_id": "SB-20170",
+    "total_spend": 1348.02
+  },
+  {
+    "customer_id": "LM-17065",
+    "total_spend": 1346.774
+  },
+  {
+    "customer_id": "MG-17695",
+    "total_spend": 1342.282
+  },
+  {
+    "customer_id": "SJ-20215",
+    "total_spend": 1341.036
+  },
+  {
+    "customer_id": "BM-11785",
+    "total_spend": 1338.8419999999999
+  },
+  {
+    "customer_id": "BF-11005",
+    "total_spend": 1333.88
+  },
+  {
+    "customer_id": "SS-20140",
+    "total_spend": 1324.028
+  },
+  {
+    "customer_id": "DM-12955",
+    "total_spend": 1322.034
+  },
+  {
+    "customer_id": "MT-18070",
+    "total_spend": 1319.4497999999999
+  },
+  {
+    "customer_id": "SJ-20500",
+    "total_spend": 1318.7759999999998
+  },
+  {
+    "customer_id": "MM-17260",
+    "total_spend": 1314.0230000000001
+  },
+  {
+    "customer_id": "SP-20545",
+    "total_spend": 1306.0859999999998
+  },
+  {
+    "customer_id": "MC-17575",
+    "total_spend": 1303.893
+  },
+  {
+    "customer_id": "EK-13795",
+    "total_spend": 1303.478
+  },
+  {
+    "customer_id": "Co-12640",
+    "total_spend": 1300.076
+  },
+  {
+    "customer_id": "DO-13435",
+    "total_spend": 1300.0315000000003
+  },
+  {
+    "customer_id": "HR-14770",
+    "total_spend": 1299.2879999999998
+  },
+  {
+    "customer_id": "GR-14560",
+    "total_spend": 1284.38
+  },
+  {
+    "customer_id": "CS-11845",
+    "total_spend": 1278.954
+  },
+  {
+    "customer_id": "PS-18970",
+    "total_spend": 1278.6390000000001
+  },
+  {
+    "customer_id": "SV-20815",
+    "total_spend": 1271.0900000000004
+  },
+  {
+    "customer_id": "DO-13645",
+    "total_spend": 1267.316
+  },
+  {
+    "customer_id": "CL-11890",
+    "total_spend": 1262.014
+  },
+  {
+    "customer_id": "LW-17125",
+    "total_spend": 1259.04
+  },
+  {
+    "customer_id": "ME-18010",
+    "total_spend": 1256.944
+  },
+  {
+    "customer_id": "GM-14500",
+    "total_spend": 1255.6819999999998
+  },
+  {
+    "customer_id": "SC-20680",
+    "total_spend": 1254.64
+  },
+  {
+    "customer_id": "MH-17620",
+    "total_spend": 1252.8
+  },
+  {
+    "customer_id": "ER-13855",
+    "total_spend": 1245.788
+  },
+  {
+    "customer_id": "TC-21475",
+    "total_spend": 1244.976
+  },
+  {
+    "customer_id": "JW-15955",
+    "total_spend": 1244.086
+  },
+  {
+    "customer_id": "MG-17875",
+    "total_spend": 1242.833
+  },
+  {
+    "customer_id": "NP-18685",
+    "total_spend": 1228.698
+  },
+  {
+    "customer_id": "PJ-18835",
+    "total_spend": 1220.0900000000001
+  },
+  {
+    "customer_id": "EH-14005",
+    "total_spend": 1219.5299999999997
+  },
+  {
+    "customer_id": "JL-15130",
+    "total_spend": 1214.9560000000001
+  },
+  {
+    "customer_id": "CD-12280",
+    "total_spend": 1205.584
+  },
+  {
+    "customer_id": "MD-17860",
+    "total_spend": 1204.9099999999999
+  },
+  {
+    "customer_id": "DW-13585",
+    "total_spend": 1204.854
+  },
+  {
+    "customer_id": "EB-14170",
+    "total_spend": 1186.326
+  },
+  {
+    "customer_id": "BP-11230",
+    "total_spend": 1181.4900000000002
+  },
+  {
+    "customer_id": "DC-13285",
+    "total_spend": 1174.618
+  },
+  {
+    "customer_id": "AT-10435",
+    "total_spend": 1171.8139999999999
+  },
+  {
+    "customer_id": "JR-15670",
+    "total_spend": 1156.658
+  },
+  {
+    "customer_id": "DB-13660",
+    "total_spend": 1155.2019999999998
+  },
+  {
+    "customer_id": "CG-12520",
+    "total_spend": 1148.7800000000002
+  },
+  {
+    "customer_id": "KC-16675",
+    "total_spend": 1146.0500000000002
+  },
+  {
+    "customer_id": "RD-19810",
+    "total_spend": 1137.6159999999998
+  },
+  {
+    "customer_id": "CW-11905",
+    "total_spend": 1136.592
+  },
+  {
+    "customer_id": "JS-15685",
+    "total_spend": 1131.0639999999999
+  },
+  {
+    "customer_id": "DV-13045",
+    "total_spend": 1119.4830000000002
+  },
+  {
+    "customer_id": "AB-10165",
+    "total_spend": 1113.838
+  },
+  {
+    "customer_id": "TM-21490",
+    "total_spend": 1094.6779999999999
+  },
+  {
+    "customer_id": "JO-15550",
+    "total_spend": 1090.838
+  },
+  {
+    "customer_id": "SW-20245",
+    "total_spend": 1085.078
+  },
+  {
+    "customer_id": "JF-15490",
+    "total_spend": 1082.918
+  },
+  {
+    "customer_id": "DB-13360",
+    "total_spend": 1081.466
+  },
+  {
+    "customer_id": "DW-13195",
+    "total_spend": 1080.751
+  },
+  {
+    "customer_id": "CS-12490",
+    "total_spend": 1077.2285000000002
+  },
+  {
+    "customer_id": "PC-19000",
+    "total_spend": 1061.488
+  },
+  {
+    "customer_id": "DP-13165",
+    "total_spend": 1058.616
+  },
+  {
+    "customer_id": "JC-15385",
+    "total_spend": 1058.1080000000002
+  },
+  {
+    "customer_id": "PO-19195",
+    "total_spend": 1056.8580000000002
+  },
+  {
+    "customer_id": "AA-10375",
+    "total_spend": 1056.39
+  },
+  {
+    "customer_id": "VS-21820",
+    "total_spend": 1055.9809999999998
+  },
+  {
+    "customer_id": "AR-10345",
+    "total_spend": 1055.694
+  },
+  {
+    "customer_id": "DP-13000",
+    "total_spend": 1050.636
+  },
+  {
+    "customer_id": "DH-13675",
+    "total_spend": 1043.096
+  },
+  {
+    "customer_id": "SM-20905",
+    "total_spend": 1043.0410000000002
+  },
+  {
+    "customer_id": "EM-14095",
+    "total_spend": 1041.042
+  },
+  {
+    "customer_id": "TC-21145",
+    "total_spend": 1038.26
+  },
+  {
+    "customer_id": "MK-18160",
+    "total_spend": 1031.6019999999999
+  },
+  {
+    "customer_id": "TH-21235",
+    "total_spend": 1022.2010000000001
+  },
+  {
+    "customer_id": "SW-20350",
+    "total_spend": 1019.0439999999998
+  },
+  {
+    "customer_id": "LS-17200",
+    "total_spend": 1010.2560000000001
+  },
+  {
+    "customer_id": "RB-19330",
+    "total_spend": 1008.1959999999999
+  },
+  {
+    "customer_id": "LS-17245",
+    "total_spend": 1008.1359999999999
+  },
+  {
+    "customer_id": "BG-11740",
+    "total_spend": 1006.356
+  },
+  {
+    "customer_id": "VP-21730",
+    "total_spend": 993.9019999999999
+  },
+  {
+    "customer_id": "KB-16600",
+    "total_spend": 983.922
+  },
+  {
+    "customer_id": "BP-11050",
+    "total_spend": 983.4199999999998
+  },
+  {
+    "customer_id": "TS-21340",
+    "total_spend": 974.7819999999999
+  },
+  {
+    "customer_id": "RD-19930",
+    "total_spend": 970.9420000000001
+  },
+  {
+    "customer_id": "AB-10150",
+    "total_spend": 966.7099999999998
+  },
+  {
+    "customer_id": "RC-19825",
+    "total_spend": 966.4089999999999
+  },
+  {
+    "customer_id": "SS-20875",
+    "total_spend": 964.6360000000001
+  },
+  {
+    "customer_id": "JH-15910",
+    "total_spend": 959.4770000000002
+  },
+  {
+    "customer_id": "JF-15295",
+    "total_spend": 955.124
+  },
+  {
+    "customer_id": "RP-19270",
+    "total_spend": 954.6451999999999
+  },
+  {
+    "customer_id": "BS-11800",
+    "total_spend": 949.43
+  },
+  {
+    "customer_id": "RF-19840",
+    "total_spend": 945.222
+  },
+  {
+    "customer_id": "EB-13930",
+    "total_spend": 944.6000000000001
+  },
+  {
+    "customer_id": "MF-17665",
+    "total_spend": 937.039
+  },
+  {
+    "customer_id": "EM-13960",
+    "total_spend": 933.704
+  },
+  {
+    "customer_id": "AC-10420",
+    "total_spend": 925.8
+  },
+  {
+    "customer_id": "EH-14185",
+    "total_spend": 923.884
+  },
+  {
+    "customer_id": "MO-17500",
+    "total_spend": 922.487
+  },
+  {
+    "customer_id": "AB-10255",
+    "total_spend": 914.5319999999998
+  },
+  {
+    "customer_id": "KB-16405",
+    "total_spend": 908.8209999999999
+  },
+  {
+    "customer_id": "CG-12040",
+    "total_spend": 904.468
+  },
+  {
+    "customer_id": "SC-20575",
+    "total_spend": 902.7280000000001
+  },
+  {
+    "customer_id": "JB-15925",
+    "total_spend": 900.552
+  },
+  {
+    "customer_id": "HZ-14950",
+    "total_spend": 886.5199999999999
+  },
+  {
+    "customer_id": "AB-10015",
+    "total_spend": 886.156
+  },
+  {
+    "customer_id": "RC-19960",
+    "total_spend": 885.752
+  },
+  {
+    "customer_id": "CS-12130",
+    "total_spend": 884.64
+  },
+  {
+    "customer_id": "HE-14800",
+    "total_spend": 883.5320000000002
+  },
+  {
+    "customer_id": "SK-19990",
+    "total_spend": 883.409
+  },
+  {
+    "customer_id": "RE-19450",
+    "total_spend": 876.696
+  },
+  {
+    "customer_id": "JM-15655",
+    "total_spend": 864.9470000000001
+  },
+  {
+    "customer_id": "JR-15700",
+    "total_spend": 863.88
+  },
+  {
+    "customer_id": "AF-10885",
+    "total_spend": 861.5649999999999
+  },
+  {
+    "customer_id": "JC-16105",
+    "total_spend": 858.576
+  },
+  {
+    "customer_id": "MS-17980",
+    "total_spend": 855.1160000000001
+  },
+  {
+    "customer_id": "VF-21715",
+    "total_spend": 847.944
+  },
+  {
+    "customer_id": "VG-21790",
+    "total_spend": 846.0100000000001
+  },
+  {
+    "customer_id": "CS-12175",
+    "total_spend": 844.4580000000001
+  },
+  {
+    "customer_id": "TB-21355",
+    "total_spend": 834.328
+  },
+  {
+    "customer_id": "AS-10630",
+    "total_spend": 833.398
+  },
+  {
+    "customer_id": "EH-13990",
+    "total_spend": 825.95
+  },
+  {
+    "customer_id": "TB-21190",
+    "total_spend": 816.174
+  },
+  {
+    "customer_id": "AM-10360",
+    "total_spend": 814.0120000000001
+  },
+  {
+    "customer_id": "BM-11575",
+    "total_spend": 808.1619999999999
+  },
+  {
+    "customer_id": "DK-13150",
+    "total_spend": 797.832
+  },
+  {
+    "customer_id": "MC-17635",
+    "total_spend": 795.1540000000001
+  },
+  {
+    "customer_id": "BF-11275",
+    "total_spend": 791.9899999999999
+  },
+  {
+    "customer_id": "HG-14845",
+    "total_spend": 785.628
+  },
+  {
+    "customer_id": "MG-17890",
+    "total_spend": 776.384
+  },
+  {
+    "customer_id": "MM-18280",
+    "total_spend": 775.4140000000001
+  },
+  {
+    "customer_id": "SF-20065",
+    "total_spend": 763.5459999999998
+  },
+  {
+    "customer_id": "SW-20755",
+    "total_spend": 758.696
+  },
+  {
+    "customer_id": "LP-17080",
+    "total_spend": 756.606
+  },
+  {
+    "customer_id": "Dl-13600",
+    "total_spend": 755.602
+  },
+  {
+    "customer_id": "IG-15085",
+    "total_spend": 744.574
+  },
+  {
+    "customer_id": "BB-10990",
+    "total_spend": 744.3399999999999
+  },
+  {
+    "customer_id": "TC-21535",
+    "total_spend": 742.558
+  },
+  {
+    "customer_id": "ML-18040",
+    "total_spend": 742.082
+  },
+  {
+    "customer_id": "RH-19555",
+    "total_spend": 740.382
+  },
+  {
+    "customer_id": "PB-18805",
+    "total_spend": 740.356
+  },
+  {
+    "customer_id": "AH-10585",
+    "total_spend": 738.504
+  },
+  {
+    "customer_id": "HM-14980",
+    "total_spend": 736.276
+  },
+  {
+    "customer_id": "PH-18790",
+    "total_spend": 729.648
+  },
+  {
+    "customer_id": "PA-19060",
+    "total_spend": 729.408
+  },
+  {
+    "customer_id": "JJ-15445",
+    "total_spend": 709.1780000000001
+  },
+  {
+    "customer_id": "JD-16060",
+    "total_spend": 695.4420000000001
+  },
+  {
+    "customer_id": "PB-19105",
+    "total_spend": 688.324
+  },
+  {
+    "customer_id": "EH-13945",
+    "total_spend": 684.171
+  },
+  {
+    "customer_id": "TR-21325",
+    "total_spend": 675.942
+  },
+  {
+    "customer_id": "AG-10330",
+    "total_spend": 660.972
+  },
+  {
+    "customer_id": "BK-11260",
+    "total_spend": 659.138
+  },
+  {
+    "customer_id": "BD-11770",
+    "total_spend": 658.466
+  },
+  {
+    "customer_id": "AC-10660",
+    "total_spend": 657.316
+  },
+  {
+    "customer_id": "AW-10840",
+    "total_spend": 649.376
+  },
+  {
+    "customer_id": "LO-17170",
+    "total_spend": 644.35
+  },
+  {
+    "customer_id": "JB-16000",
+    "total_spend": 644.1188
+  },
+  {
+    "customer_id": "CD-11980",
+    "total_spend": 639.766
+  },
+  {
+    "customer_id": "MR-17545",
+    "total_spend": 639.178
+  },
+  {
+    "customer_id": "AJ-10960",
+    "total_spend": 629.2479999999999
+  },
+  {
+    "customer_id": "RR-19315",
+    "total_spend": 615.932
+  },
+  {
+    "customer_id": "SS-20515",
+    "total_spend": 613.4000000000001
+  },
+  {
+    "customer_id": "BT-11440",
+    "total_spend": 603.876
+  },
+  {
+    "customer_id": "BF-10975",
+    "total_spend": 599.798
+  },
+  {
+    "customer_id": "MZ-17335",
+    "total_spend": 593.606
+  },
+  {
+    "customer_id": "DL-13330",
+    "total_spend": 585.02
+  },
+  {
+    "customer_id": "AS-10240",
+    "total_spend": 584.6080000000001
+  },
+  {
+    "customer_id": "BD-11635",
+    "total_spend": 582.646
+  },
+  {
+    "customer_id": "NK-18490",
+    "total_spend": 572.048
+  },
+  {
+    "customer_id": "CM-11935",
+    "total_spend": 565.392
+  },
+  {
+    "customer_id": "CS-12460",
+    "total_spend": 550.6440000000001
+  },
+  {
+    "customer_id": "CS-11860",
+    "total_spend": 537.6320000000001
+  },
+  {
+    "customer_id": "JH-15820",
+    "total_spend": 528.9100000000001
+  },
+  {
+    "customer_id": "RB-19570",
+    "total_spend": 528.546
+  },
+  {
+    "customer_id": "AY-10555",
+    "total_spend": 497.01400000000007
+  },
+  {
+    "customer_id": "CR-12625",
+    "total_spend": 475.9
+  },
+  {
+    "customer_id": "MS-17530",
+    "total_spend": 475.65599999999995
+  },
+  {
+    "customer_id": "JS-15940",
+    "total_spend": 469.169
+  },
+  {
+    "customer_id": "EC-14050",
+    "total_spend": 461.914
+  },
+  {
+    "customer_id": "KM-16660",
+    "total_spend": 453.538
+  },
+  {
+    "customer_id": "KW-16570",
+    "total_spend": 449.09600000000006
+  },
+  {
+    "customer_id": "TT-21265",
+    "total_spend": 439.5
+  },
+  {
+    "customer_id": "ST-20530",
+    "total_spend": 433.34
+  },
+  {
+    "customer_id": "VG-21805",
+    "total_spend": 427.372
+  },
+  {
+    "customer_id": "SS-20590",
+    "total_spend": 418.49
+  },
+  {
+    "customer_id": "BT-11485",
+    "total_spend": 415.19599999999997
+  },
+  {
+    "customer_id": "MH-17440",
+    "total_spend": 400.016
+  },
+  {
+    "customer_id": "BW-11065",
+    "total_spend": 385.516
+  },
+  {
+    "customer_id": "JD-16015",
+    "total_spend": 385.43
+  },
+  {
+    "customer_id": "JK-15325",
+    "total_spend": 383.812
+  },
+  {
+    "customer_id": "VM-21835",
+    "total_spend": 380.69
+  },
+  {
+    "customer_id": "NF-18475",
+    "total_spend": 377.16200000000003
+  },
+  {
+    "customer_id": "MS-17830",
+    "total_spend": 370.348
+  },
+  {
+    "customer_id": "LS-17230",
+    "total_spend": 368.88
+  },
+  {
+    "customer_id": "AG-10300",
+    "total_spend": 367.548
+  },
+  {
+    "customer_id": "EM-14200",
+    "total_spend": 366.822
+  },
+  {
+    "customer_id": "HJ-14875",
+    "total_spend": 358.1
+  },
+  {
+    "customer_id": "DW-13540",
+    "total_spend": 344.08000000000004
+  },
+  {
+    "customer_id": "LT-16765",
+    "total_spend": 329.876
+  },
+  {
+    "customer_id": "BD-11560",
+    "total_spend": 320.53999999999996
+  },
+  {
+    "customer_id": "LH-17020",
+    "total_spend": 318.239
+  },
+  {
+    "customer_id": "JH-15430",
+    "total_spend": 309.281
+  },
+  {
+    "customer_id": "JM-15580",
+    "total_spend": 303.948
+  },
+  {
+    "customer_id": "CM-12445",
+    "total_spend": 287.98999999999995
+  },
+  {
+    "customer_id": "LH-16750",
+    "total_spend": 287.426
+  },
+  {
+    "customer_id": "SC-20845",
+    "total_spend": 280.632
+  },
+  {
+    "customer_id": "SC-20800",
+    "total_spend": 279.256
+  },
+  {
+    "customer_id": "NB-18580",
+    "total_spend": 273.87199999999996
+  },
+  {
+    "customer_id": "BF-11080",
+    "total_spend": 272.95
+  },
+  {
+    "customer_id": "DD-13570",
+    "total_spend": 269.54200000000003
+  },
+  {
+    "customer_id": "BN-11470",
+    "total_spend": 265.296
+  },
+  {
+    "customer_id": "AR-10510",
+    "total_spend": 264.86400000000003
+  },
+  {
+    "customer_id": "HD-14785",
+    "total_spend": 251.36
+  },
+  {
+    "customer_id": "SM-20005",
+    "total_spend": 244.494
+  },
+  {
+    "customer_id": "PL-18925",
+    "total_spend": 239.48100000000002
+  },
+  {
+    "customer_id": "GP-14740",
+    "total_spend": 236.53
+  },
+  {
+    "customer_id": "EM-14065",
+    "total_spend": 228.99
+  },
+  {
+    "customer_id": "GT-14755",
+    "total_spend": 226.43599999999998
+  },
+  {
+    "customer_id": "RB-19645",
+    "total_spend": 221.08399999999997
+  },
+  {
+    "customer_id": "HH-15010",
+    "total_spend": 218.668
+  },
+  {
+    "customer_id": "AG-10390",
+    "total_spend": 200.945
+  },
+  {
+    "customer_id": "JJ-15760",
+    "total_spend": 195
+  },
+  {
+    "customer_id": "AG-10765",
+    "total_spend": 170.58399999999997
+  },
+  {
+    "customer_id": "ML-18265",
+    "total_spend": 162.232
+  },
+  {
+    "customer_id": "AO-10810",
+    "total_spend": 161.28
+  },
+  {
+    "customer_id": "PT-19090",
+    "total_spend": 160.572
+  },
+  {
+    "customer_id": "DA-13450",
+    "total_spend": 156.76
+  },
+  {
+    "customer_id": "MO-17950",
+    "total_spend": 154.288
+  },
+  {
+    "customer_id": "GH-14665",
+    "total_spend": 146.94080000000002
+  },
+  {
+    "customer_id": "PB-19210",
+    "total_spend": 132.738
+  },
+  {
+    "customer_id": "BO-11425",
+    "total_spend": 130.83
+  },
+  {
+    "customer_id": "EL-13735",
+    "total_spend": 124.28
+  },
+  {
+    "customer_id": "CC-12550",
+    "total_spend": 113.832
+  },
+  {
+    "customer_id": "RM-19750",
+    "total_spend": 98.35
+  },
+  {
+    "customer_id": "KS-16300",
+    "total_spend": 88.47200000000001
+  },
+  {
+    "customer_id": "AR-10570",
+    "total_spend": 88.15
+  },
+  {
+    "customer_id": "FW-14395",
+    "total_spend": 79.75
+  },
+  {
+    "customer_id": "JC-15340",
+    "total_spend": 71.26299999999999
+  },
+  {
+    "customer_id": "AS-10135",
+    "total_spend": 58.82
+  },
+  {
+    "customer_id": "LB-16735",
+    "total_spend": 50.188
+  },
+  {
+    "customer_id": "RE-19405",
+    "total_spend": 48.36
+  },
+  {
+    "customer_id": "SG-20890",
+    "total_spend": 47.946
+  },
+  {
+    "customer_id": "RS-19870",
+    "total_spend": 22.328
+  },
+  {
+    "customer_id": "MG-18205",
+    "total_spend": 16.739
+  },
+  {
+    "customer_id": "CJ-11875",
+    "total_spend": 16.52
+  },
+  {
+    "customer_id": "LD-16855",
+    "total_spend": 5.304
+  },
+  {
+    "customer_id": "TS-21085",
+    "total_spend": 4.833
+  }
+]

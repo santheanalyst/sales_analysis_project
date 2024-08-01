@@ -1,0 +1,22 @@
+[
+  {
+    "region": "West",
+    "total_sales": 725457.8245000005,
+    "num_orders": "3203"
+  },
+  {
+    "region": "East",
+    "total_sales": 678781.2399999979,
+    "num_orders": "2848"
+  },
+  {
+    "region": "Central",
+    "total_sales": 501239.8908000005,
+    "num_orders": "2323"
+  },
+  {
+    "region": "South",
+    "total_sales": 391721.9050000003,
+    "num_orders": "1620"
+  }
+]

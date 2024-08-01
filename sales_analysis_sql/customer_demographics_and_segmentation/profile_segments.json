@@ -1,0 +1,17 @@
+[
+  {
+    "segment": "Low Value",
+    "avg_spend": 2080.1472951327446,
+    "avg_frequency": "11.5634218289085546"
+  },
+  {
+    "segment": "High Value",
+    "avg_spend": 13322.910777777777,
+    "avg_frequency": "20.5000000000000000"
+  },
+  {
+    "segment": "Medium Value",
+    "avg_spend": 6670.604125773197,
+    "avg_frequency": "18.4020618556701031"
+  }
+]

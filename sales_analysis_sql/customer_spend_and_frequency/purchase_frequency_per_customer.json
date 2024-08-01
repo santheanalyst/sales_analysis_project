@@ -1,0 +1,3174 @@
+[
+  {
+    "customer_id": "WB-21850",
+    "purchase_frequency": "37"
+  },
+  {
+    "customer_id": "PP-18955",
+    "purchase_frequency": "34"
+  },
+  {
+    "customer_id": "JL-15835",
+    "purchase_frequency": "34"
+  },
+  {
+    "customer_id": "MA-17560",
+    "purchase_frequency": "34"
+  },
+  {
+    "customer_id": "EH-13765",
+    "purchase_frequency": "32"
+  },
+  {
+    "customer_id": "JD-15895",
+    "purchase_frequency": "32"
+  },
+  {
+    "customer_id": "CK-12205",
+    "purchase_frequency": "32"
+  },
+  {
+    "customer_id": "SV-20365",
+    "purchase_frequency": "32"
+  },
+  {
+    "customer_id": "ZC-21910",
+    "purchase_frequency": "31"
+  },
+  {
+    "customer_id": "EP-13915",
+    "purchase_frequency": "31"
+  },
+  {
+    "customer_id": "AP-10915",
+    "purchase_frequency": "31"
+  },
+  {
+    "customer_id": "LC-16870",
+    "purchase_frequency": "30"
+  },
+  {
+    "customer_id": "BM-11650",
+    "purchase_frequency": "29"
+  },
+  {
+    "customer_id": "SH-19975",
+    "purchase_frequency": "29"
+  },
+  {
+    "customer_id": "GT-14710",
+    "purchase_frequency": "29"
+  },
+  {
+    "customer_id": "KL-16645",
+    "purchase_frequency": "29"
+  },
+  {
+    "customer_id": "Dp-13240",
+    "purchase_frequency": "29"
+  },
+  {
+    "customer_id": "KM-16720",
+    "purchase_frequency": "28"
+  },
+  {
+    "customer_id": "KD-16495",
+    "purchase_frequency": "28"
+  },
+  {
+    "customer_id": "CS-12250",
+    "purchase_frequency": "28"
+  },
+  {
+    "customer_id": "XP-21865",
+    "purchase_frequency": "28"
+  },
+  {
+    "customer_id": "CL-12565",
+    "purchase_frequency": "28"
+  },
+  {
+    "customer_id": "BF-11170",
+    "purchase_frequency": "27"
+  },
+  {
+    "customer_id": "DK-12835",
+    "purchase_frequency": "27"
+  },
+  {
+    "customer_id": "LA-16780",
+    "purchase_frequency": "26"
+  },
+  {
+    "customer_id": "PG-18820",
+    "purchase_frequency": "26"
+  },
+  {
+    "customer_id": "SC-20725",
+    "purchase_frequency": "26"
+  },
+  {
+    "customer_id": "NS-18640",
+    "purchase_frequency": "26"
+  },
+  {
+    "customer_id": "CB-12025",
+    "purchase_frequency": "26"
+  },
+  {
+    "customer_id": "CK-12595",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "RP-19390",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "SV-20785",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "EA-14035",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "AS-10090",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "PK-19075",
+    "purchase_frequency": "25"
+  },
+  {
+    "customer_id": "RL-19615",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "LB-16795",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "JA-15970",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "SP-20860",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "SP-20620",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "MS-17365",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "BH-11710",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "SJ-20125",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "DR-12880",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "GG-14650",
+    "purchase_frequency": "24"
+  },
+  {
+    "customer_id": "RB-19465",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "KB-16585",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "LC-16885",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "JE-15745",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "RW-19540",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "AH-10690",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "DK-13375",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "DH-13075",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "KH-16510",
+    "purchase_frequency": "23"
+  },
+  {
+    "customer_id": "MH-18115",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "NW-18400",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "ME-17320",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "KB-16315",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "GA-14725",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "SM-20950",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "KL-16555",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "JE-15715",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "CS-12355",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "SC-20095",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "CS-11950",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "PO-18850",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "CC-12220",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "AM-10705",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "LS-16975",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "RA-19915",
+    "purchase_frequency": "22"
+  },
+  {
+    "customer_id": "SS-20140",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "RD-19900",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "AG-10495",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "DB-13210",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "AG-10900",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "NP-18325",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "PS-18760",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "SC-20770",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "IM-15070",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "MY-18295",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "EM-14140",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "FH-14275",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "AJ-10795",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "BF-11020",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "SD-20485",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "SA-20830",
+    "purchase_frequency": "21"
+  },
+  {
+    "customer_id": "JE-15610",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "TB-21520",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "DM-13015",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "GB-14530",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "ES-14080",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "EB-13750",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "MP-17965",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "AB-10105",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "DS-13180",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "ML-17395",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "HM-14860",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "BD-11605",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "BP-11095",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "KM-16375",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "BB-11545",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "FM-14290",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "JK-15730",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "SC-20380",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "CJ-12010",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "NZ-18565",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "SZ-20035",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "BT-11680",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "HW-14935",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "AH-10075",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "RD-19720",
+    "purchase_frequency": "20"
+  },
+  {
+    "customer_id": "MS-17770",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "SN-20710",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "LH-17155",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "TB-21250",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "CC-12430",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "LC-17140",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "JM-15250",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "HF-14995",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "MB-17305",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "MP-18175",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "CV-12805",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "AP-10720",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "PF-19120",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "SE-20110",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "JF-15190",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "JM-16195",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "RD-19585",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "DS-13030",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "DK-13225",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "CB-12535",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "KM-16225",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "MC-18100",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "BD-11320",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "TS-21205",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "TM-21010",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "MM-18055",
+    "purchase_frequency": "19"
+  },
+  {
+    "customer_id": "AC-10615",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "AI-10855",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "ND-18370",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "SU-20665",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "JG-15160",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "TB-21055",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "PO-19180",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "JS-16030",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "CT-11995",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "SC-20260",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "KF-16285",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "MC-17605",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "HA-14920",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "AB-10060",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "AA-10645",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "BC-11125",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "RB-19795",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "BP-11185",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "KH-16330",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "EH-14125",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "VW-21775",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "RB-19360",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "DC-12850",
+    "purchase_frequency": "18"
+  },
+  {
+    "customer_id": "HG-14965",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "MK-17905",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "DP-13000",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "JK-15370",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "KN-16390",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "DL-13315",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "SF-20965",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "CA-12265",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "RA-19285",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "SC-20020",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "FA-14230",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "NC-18340",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "GH-14410",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "TB-21400",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "KH-16630",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "TS-21160",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "JL-15505",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "BN-11515",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "NB-18655",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "CA-12775",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "BW-11110",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "MC-17590",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "EH-13945",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "SB-20290",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "PG-18895",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "JD-16150",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "JK-16120",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "MD-17350",
+    "purchase_frequency": "17"
+  },
+  {
+    "customer_id": "EM-13825",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "JB-15400",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "VD-21670",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "AH-10120",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "JF-15565",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "BK-11260",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "LR-16915",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "LF-17185",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "RF-19345",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "GB-14575",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "NG-18355",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "BM-11140",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "JF-15355",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "MM-17920",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "RD-19810",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "JC-15775",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "TC-21295",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "TP-21130",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "RB-19435",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "KD-16270",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "AF-10870",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "BP-11290",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "AT-10735",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "TD-20995",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "RW-19630",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "AW-10930",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "JP-15520",
+    "purchase_frequency": "16"
+  },
+  {
+    "customer_id": "NS-18505",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "MS-17710",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "LW-17215",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "DV-13465",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "ML-17410",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "MJ-17740",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "LP-17095",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "LW-16825",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SM-20320",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "MV-17485",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "JF-15490",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "DK-12895",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "TT-21220",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "TS-21370",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "JP-15460",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "NM-18520",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "RA-19885",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SO-20335",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SF-20200",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "FM-14215",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SS-20875",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SH-20395",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "RW-19690",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "CP-12340",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SC-20050",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "RD-19480",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "KN-16705",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "NC-18535",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "CD-12790",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "KE-16420",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "FO-14305",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SP-20650",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "LH-16900",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "TB-21625",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "AJ-10780",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "KH-16690",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "AA-10375",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "ON-18715",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "HK-14890",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "AG-10675",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "RP-19855",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "SN-20560",
+    "purchase_frequency": "15"
+  },
+  {
+    "customer_id": "DB-13405",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "GK-14620",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "BM-11785",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DP-13105",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DB-12970",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "KH-16360",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "JH-15985",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "FH-14350",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "LT-17110",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DB-13555",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "NC-18415",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "JF-15415",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "FC-14245",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "TS-21505",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "SP-20920",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "HR-14830",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "BS-11755",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "FP-14320",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "CS-12400",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DL-12925",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "SC-20695",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "FM-14380",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "IL-15100",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "MC-17845",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "NM-18445",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "AG-10270",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "LS-16945",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "JF-15295",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "GA-14515",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "TT-21070",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "SG-20470",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "JW-15220",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "TT-21460",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "RF-19735",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "AB-10255",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DB-13120",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "CP-12085",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "MW-18220",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "MG-17650",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "RS-19765",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "GZ-14470",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DL-12865",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "KT-16465",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "CC-12670",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "BV-11245",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "TS-21655",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "VP-21760",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "NF-18385",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "ED-13885",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "AB-10165",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "LC-16930",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "LS-17200",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "MP-17470",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "CK-12760",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "DP-13390",
+    "purchase_frequency": "14"
+  },
+  {
+    "customer_id": "CV-12295",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "TH-21550",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JM-15865",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JM-15265",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "ME-17725",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DB-13060",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "TH-21235",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "MH-17290",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DM-13345",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PS-19045",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PW-19030",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "KT-16480",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "QJ-19255",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "CM-12715",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "AS-10240",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "NP-18700",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PV-18985",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JP-16135",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "MY-17380",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DO-13435",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "MC-17275",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PO-18865",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "ML-17755",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "CC-12100",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "KD-16615",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "AH-10210",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "TB-21355",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "SV-20935",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PN-18775",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JK-15205",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "GM-14500",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DJ-13510",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "NR-18550",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "SG-20605",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "AS-10225",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DR-12940",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "FH-14365",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PJ-18835",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "HR-14770",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JO-15145",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "BF-10975",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "CD-12280",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "MG-17890",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "PS-18970",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "AR-10825",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DK-13090",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "BS-11380",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "JE-15475",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "BE-11455",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "CC-12475",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "DB-13270",
+    "purchase_frequency": "13"
+  },
+  {
+    "customer_id": "NF-18595",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AS-10630",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AD-10180",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AA-10480",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "RP-19270",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "RO-19780",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "CK-12325",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "LL-16840",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "DB-12910",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "PW-19240",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "LS-17245",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "TW-21025",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "CB-12415",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "LR-17035",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "JM-15655",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AM-10360",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "EB-13705",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "MA-17995",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "JK-15625",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "DL-13495",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "MF-18250",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "JK-15640",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "SR-20740",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "TN-21040",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "PR-18880",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "SB-20185",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "TS-21340",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "CC-12685",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "CC-12610",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "RH-19510",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "YS-21880",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AZ-10750",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "JL-15130",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "TC-20980",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "GM-14455",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "AB-10150",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "ST-20530",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "MM-18280",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "SC-20305",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "BG-11035",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "BO-11350",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "VM-21685",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "SS-20410",
+    "purchase_frequency": "12"
+  },
+  {
+    "customer_id": "PB-19150",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "LW-16990",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "BS-11665",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "AH-10030",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "DN-13690",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "DB-13615",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "TB-21175",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "RH-19600",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MV-18190",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "TS-21610",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "FG-14260",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "CY-12745",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MH-17785",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "CC-12370",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MC-18130",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "TC-21475",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JL-15850",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "RF-19840",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "BP-11155",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "CW-11905",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "HE-14800",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "GM-14695",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JG-15310",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MS-17980",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "EB-13870",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JO-15280",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "SC-20230",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "HG-15025",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "EB-14110",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "AA-10315",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "CA-12310",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "NH-18610",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "SG-20080",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "VF-21715",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JW-15955",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JO-15550",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MH-17455",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JD-16015",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "GM-14440",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "CC-12145",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MC-17575",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "RM-19675",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "DH-13675",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "KA-16525",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "NK-18490",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "GM-14680",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "TB-21280",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MK-18160",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "JS-15685",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MT-18070",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "HL-15040",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "RC-19960",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "DW-13480",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "EH-14005",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "MO-17800",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "DO-13645",
+    "purchase_frequency": "11"
+  },
+  {
+    "customer_id": "BT-11395",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TP-21565",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "DB-13660",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MG-17680",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "OT-18730",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MN-17935",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "KD-16345",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "DM-13525",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "JR-16210",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MC-17425",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "PF-19225",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TP-21415",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "KC-16255",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TG-21640",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "HP-14815",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BS-11590",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "SJ-20215",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "RC-19825",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MH-18025",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TC-21535",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "CM-12385",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "JL-15235",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "PB-18805",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TA-21385",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "HA-14905",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MZ-17515",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "HG-14845",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "JM-15535",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BF-11005",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "VB-21745",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "SP-20545",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "PO-19195",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "DW-13585",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "CA-12055",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "AY-10555",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MB-18085",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "CA-11965",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "GH-14425",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "NL-18310",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BT-11530",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BD-11770",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BD-11500",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "EM-14095",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "RD-19930",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "NP-18670",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BW-11200",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "AJ-10945",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "FC-14335",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "CM-12655",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "SC-20440",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "PJ-19015",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "AS-10045",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "KW-16435",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "PF-19165",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "RR-19525",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "KB-16240",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "SW-20245",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "MT-17815",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "CM-11815",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BD-11725",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "BM-11575",
+    "purchase_frequency": "10"
+  },
+  {
+    "customer_id": "TZ-21580",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "NG-18430",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "KM-16660",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JH-15910",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "ZD-21925",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "CG-12040",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "BT-11305",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "CS-12490",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JS-15880",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "LC-17050",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "LO-17170",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DW-13195",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SR-20425",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "NC-18625",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JC-16105",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "BS-11365",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JB-16045",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "RS-19420",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "VT-21700",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SL-20155",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "TG-21310",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DV-13045",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SF-20065",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "MH-17440",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "KB-16600",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "EG-13900",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "CS-12505",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "TH-21115",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DE-13255",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "KB-16405",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JG-15805",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "RB-19570",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "AG-10525",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "AC-10450",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "EN-13780",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "RA-19945",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DW-13540",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "AG-10330",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DM-12955",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SS-20590",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "CM-12445",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "BE-11335",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "LP-17080",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "AR-10540",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "JK-16090",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "GW-14605",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "LE-16810",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "RE-19450",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "RM-19375",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "DD-13570",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "AT-10435",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SW-20455",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "CD-11920",
+    "purchase_frequency": "9"
+  },
+  {
+    "customer_id": "SC-20680",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "JS-15940",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "DG-13300",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "BB-10990",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "EH-14185",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "DK-12985",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "DL-13330",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "BS-11800",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "CS-11845",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "CM-12235",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "Co-12640",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "EJ-13720",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AW-10840",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "KN-16450",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "YC-21895",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "EH-13990",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "BF-11215",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "BD-11620",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "JH-15820",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "DJ-13630",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "CS-12175",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "DA-13450",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "MC-17635",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "VS-21820",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "MD-17860",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "ND-18460",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "MG-18145",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "VM-21835",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "RH-19495",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "BG-11695",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "RK-19300",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "SW-20755",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AH-10195",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "VG-21790",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "CL-12700",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "EB-13840",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "PL-18925",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AS-10285",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AB-10600",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AH-10465",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "JS-15595",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "MF-17665",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "ES-14020",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "JB-15925",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "EJ-14155",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "AG-10390",
+    "purchase_frequency": "8"
+  },
+  {
+    "customer_id": "JM-15580",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "LD-17005",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JB-16000",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "BT-11440",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "SC-20575",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "MG-17695",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JL-15175",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "PM-19135",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "AF-10885",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "LM-17065",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "LC-16960",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "TR-21325",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "AR-10405",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "TS-21430",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JE-16165",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "SW-20275",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "EM-13810",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "MS-17530",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "EC-14050",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JD-15790",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JW-16075",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "KC-16675",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "BG-11740",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JG-15115",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "EB-14170",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "TB-21595",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "EB-13930",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "PT-19090",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CS-11860",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "GT-14755",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CR-12820",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "DC-13285",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CM-12115",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CM-12160",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "HM-14980",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "TH-21100",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "AR-10510",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "HD-14785",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CL-11890",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CS-12130",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "RB-19645",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "IG-15085",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "SB-20170",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "CM-12190",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "JH-15430",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "NP-18685",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "MG-17875",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "RB-19705",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "SJ-20500",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "PA-19060",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "BP-11050",
+    "purchase_frequency": "7"
+  },
+  {
+    "customer_id": "MR-17545",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "SS-20515",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "JJ-15445",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "VG-21805",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "AC-10660",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "MZ-17335",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "Dl-13600",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "SM-20005",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "CR-12580",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "AB-10015",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "EM-13960",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "GT-14635",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "EM-14065",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "HH-15010",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "HZ-14950",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "BN-11470",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "LH-17020",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "GD-14590",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "CR-12730",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "HJ-14875",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "SM-20905",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "EB-13975",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "RB-19330",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "SW-20350",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "MH-17620",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "DB-13360",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "BF-11080",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "CD-11980",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "BP-11230",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "JD-16060",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "DF-13135",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "SV-20815",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "MM-17260",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "ME-18010",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "LS-17230",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "CS-12460",
+    "purchase_frequency": "6"
+  },
+  {
+    "customer_id": "DK-13150",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "PB-19105",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "MS-17830",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AH-10585",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "KC-16540",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AG-10300",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "MO-17500",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "CG-12520",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "SG-20890",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "GR-14560",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "BE-11410",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "KW-16570",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AC-10420",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "BD-11635",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "JH-16180",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "DJ-13420",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AG-10765",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "GP-14740",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AR-10345",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "LW-17125",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "SC-20800",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "AJ-10960",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "VP-21730",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "SK-19990",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "RD-19660",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "ER-13855",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "GZ-14545",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "PC-18745",
+    "purchase_frequency": "5"
+  },
+  {
+    "customer_id": "JK-15325",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "RR-19315",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "CR-12625",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "CC-12550",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "CM-11935",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "BD-11560",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "JC-15340",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "NF-18475",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "IM-15055",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "CH-12070",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "MO-17950",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "DP-13165",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "ML-18040",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "TC-21145",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "BF-11275",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "PM-18940",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "KS-16300",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "TM-21490",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "SC-20845",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "EK-13795",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "JC-15385",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "TB-21190",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "EM-14200",
+    "purchase_frequency": "4"
+  },
+  {
+    "customer_id": "RH-19555",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "TT-21265",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "LB-16735",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "MW-18235",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "GH-14485",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "JJ-15760",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "PK-18910",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "LT-16765",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "LH-16750",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "BT-11485",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "GH-14665",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "JR-15670",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "ML-18265",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "BW-11065",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "PC-19000",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "AS-10135",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "RS-19870",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "FW-14395",
+    "purchase_frequency": "3"
+  },
+  {
+    "customer_id": "NB-18580",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "PH-18790",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "RM-19750",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "MG-18205",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "TS-21085",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "BO-11425",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "SH-20635",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "EL-13735",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "PB-19210",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "AR-10570",
+    "purchase_frequency": "2"
+  },
+  {
+    "customer_id": "LD-16855",
+    "purchase_frequency": "1"
+  },
+  {
+    "customer_id": "AO-10810",
+    "purchase_frequency": "1"
+  },
+  {
+    "customer_id": "JR-15700",
+    "purchase_frequency": "1"
+  },
+  {
+    "customer_id": "RE-19405",
+    "purchase_frequency": "1"
+  },
+  {
+    "customer_id": "CJ-11875",
+    "purchase_frequency": "1"
+  }
+]
